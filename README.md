@@ -43,21 +43,17 @@ To adapt for a different student, update the `PAULO_PROFILE` dict at the top of 
 | Level | Program |
 |-------|---------|
 | Bachelor's | BA in Information Technologies |
-| Bachelor's | BS in Information Technologies |
-| Bachelor's | BS in Cybersecurity |
-| Bachelor's | BS in Business Administration (IT Management) |
-| Master's | MBA Online |
-| Master's | MS in Computer Science (AI concentration) |
 | Master's | MS in Cybersecurity |
+| Master's | MS in Information Technology (Information Technology concentration) |
 
 ## Recommended path (for this profile)
 
 ```
 Sophia Learning (3 months, $297) + WES evaluation
         ↓
-BA in IT or BS Cybersecurity — 30 credits at SNHU (~10–12 months, ~$10K)
+BA in IT — 30 credits at SNHU after maximum transfer (~10–12 months, current tuition estimate ~$10.6K)
         ↓
-MS in Cybersecurity — 36 credits (~12–14 months, ~$23K)
+MS in Cybersecurity or MS in IT — 36 graduate credits, with up to 12 graduate transfer credits if SNHU accepts prior graduate-level work
 ```
 
-Total: ~26 months and ~$33K to MS level, versus $120K–$200K for a traditional 4-year degree.
+The BA in IT is now the selected bachelor's path because SNHU identifies it as the more transfer-friendly IT option, with 21 free elective credits.

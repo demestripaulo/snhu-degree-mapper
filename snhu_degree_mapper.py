@@ -144,65 +144,29 @@ SNHU_PROGRAMS = [
     {
         "level": "Bachelor's",
         "name": "BA in Information Technologies",
-        "url": "https://www.snhu.edu/online-degrees/bachelors/ba-in-information-technologies",
+        "url": "https://www.snhu.edu/admission/academic-catalogs#/programs/EyjsXN8tl",
         "total_credits": 120,
         "max_transfer": 90,
-        "notes": "Most transfer-friendly IT option — 21 free elective credits",
+        "notes": "Selected bachelor's path. Most transfer-friendly IT option with 21 free elective credits.",
         "relevant_to": ["IT operations", "networking", "systems", "tech leadership"]
-    },
-    {
-        "level": "Bachelor's",
-        "name": "BS in Information Technologies",
-        "url": "https://www.snhu.edu/online-degrees/bachelors/bs-in-information-technologies",
-        "total_credits": 120,
-        "max_transfer": 90,
-        "notes": "Technical depth with 5 concentration options",
-        "relevant_to": ["IT operations", "networking", "cybersecurity concentration"]
-    },
-    {
-        "level": "Bachelor's",
-        "name": "BS in Cybersecurity",
-        "url": "https://www.snhu.edu/online-degrees/bachelors/cyber-security",
-        "total_credits": 120,
-        "max_transfer": 90,
-        "notes": "Direct alignment with ISC2 CC, CCNA, CompTIA certs",
-        "relevant_to": ["cybersecurity", "network security", "information assurance"]
-    },
-    {
-        "level": "Bachelor's",
-        "name": "BS in Business Administration (IT Management concentration)",
-        "url": "https://www.snhu.edu/online-degrees/bachelors/bs-in-business-administration/management-information-systems",
-        "total_credits": 120,
-        "max_transfer": 90,
-        "notes": "Business + tech hybrid — strong for leadership positioning",
-        "relevant_to": ["leadership", "operations", "business strategy", "IT management"]
-    },
-    {
-        "level": "Master's",
-        "name": "MBA Online",
-        "url": "https://www.snhu.edu/online-degrees/masters/mba-online",
-        "total_credits": 36,
-        "max_transfer": 0,
-        "notes": "Completable in ~12 months. Requires bachelor's first.",
-        "relevant_to": ["leadership", "strategy", "C-suite positioning", "operations"]
-    },
-    {
-        "level": "Master's",
-        "name": "MS in Computer Science (AI concentration)",
-        "url": "https://www.snhu.edu/online-degrees/masters/ms-in-computer-science",
-        "total_credits": 36,
-        "max_transfer": 0,
-        "notes": "AI/ML specialization — direct alignment with PUC Minas track",
-        "relevant_to": ["AI", "machine learning", "software engineering", "tech leadership"]
     },
     {
         "level": "Master's",
         "name": "MS in Cybersecurity",
-        "url": "https://www.snhu.edu/online-degrees/masters/ms-in-cyber-security",
+        "url": "https://www.snhu.edu/admission/academic-catalogs#/programs/4112448tg",
         "total_credits": 36,
-        "max_transfer": 0,
-        "notes": "Builds directly on Security+, CCNA, ISC2 stack",
+        "max_transfer": 12,
+        "notes": "Graduate target option. Undergraduate BA credits satisfy the bachelor's credential but do not directly reduce graduate credits; SNHU may accept up to 12 graduate transfer credits.",
         "relevant_to": ["cybersecurity", "information security", "security management"]
+    },
+    {
+        "level": "Master's",
+        "name": "MS in Information Technology (Information Technology concentration)",
+        "url": "https://www.snhu.edu/admission/academic-catalogs#/programs/4kK2V4LYg/V1gvpS4qg",
+        "total_credits": 36,
+        "max_transfer": 12,
+        "notes": "Graduate target option. Requires completed bachelor's first; undergraduate Sophia/WES credits are for BA completion, not graduate-course reduction.",
+        "relevant_to": ["IT management", "systems", "technical leadership", "enterprise technology"]
     }
 ]
 

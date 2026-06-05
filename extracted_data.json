@@ -1,0 +1,326 @@
+{
+  "PAULO_PROFILE": {
+    "name": "Paulo Demestri",
+    "location": "Boca Raton, FL",
+    "languages": [
+      "English (Full Professional)",
+      "Portuguese (Native)",
+      "Spanish (Native/Bilingual)"
+    ],
+    "education": [
+      {
+        "title": "Postgraduate Specialization \u2014 Artificial Intelligence & Machine Learning",
+        "institution": "PUC Minas (Pontifical Catholic University of Minas Gerais)",
+        "country": "Brazil",
+        "status": "In Progress (2025\u20132027)",
+        "us_equivalent": "Postgraduate Certificate (WES pending)",
+        "credits_potential": 15
+      },
+      {
+        "title": "Technology Associate's Degree \u2014 Information Technology Management",
+        "institution": "Universidade Est\u00e1cio de S\u00e1",
+        "country": "Brazil",
+        "status": "Completed (2015\u20132017)",
+        "us_equivalent": "Associate's Degree (WES pending)",
+        "credits_potential": 60
+      }
+    ],
+    "certifications": [
+      {
+        "name": "ISC2 CC (Certified in Cybersecurity)",
+        "issuer": "ISC2",
+        "snhu_cpl": true,
+        "credits_est": 6
+      },
+      {
+        "name": "CCNA (Cisco Certified Network Associate)",
+        "issuer": "Cisco",
+        "snhu_cpl": true,
+        "credits_est": 9
+      },
+      {
+        "name": "HCNA (Huawei Certified Network Associate)",
+        "issuer": "Huawei",
+        "snhu_cpl": false,
+        "credits_est": 0
+      },
+      {
+        "name": "MCSA (Microsoft Certified Solutions Associate)",
+        "issuer": "Microsoft",
+        "snhu_cpl": true,
+        "credits_est": 6
+      },
+      {
+        "name": "MCTS (Microsoft Certified Technology Specialist)",
+        "issuer": "Microsoft",
+        "snhu_cpl": true,
+        "credits_est": 3
+      },
+      {
+        "name": "CompTIA A+",
+        "issuer": "CompTIA",
+        "snhu_cpl": true,
+        "credits_est": 6
+      },
+      {
+        "name": "CompTIA Security+ (In Progress)",
+        "issuer": "CompTIA",
+        "snhu_cpl": true,
+        "credits_est": 6
+      },
+      {
+        "name": "FCNSA (Fortinet Certified Network Security)",
+        "issuer": "Fortinet",
+        "snhu_cpl": false,
+        "credits_est": 0
+      },
+      {
+        "name": "Google Project Management Certificate",
+        "issuer": "Google",
+        "snhu_cpl": true,
+        "credits_est": 3
+      },
+      {
+        "name": "Google AI Essentials",
+        "issuer": "Google",
+        "snhu_cpl": true,
+        "credits_est": 3
+      },
+      {
+        "name": "PMI PM Fast-track",
+        "issuer": "PMI",
+        "snhu_cpl": true,
+        "credits_est": 3
+      },
+      {
+        "name": "Six Sigma White Belt",
+        "issuer": "Various",
+        "snhu_cpl": false,
+        "credits_est": 0
+      },
+      {
+        "name": "Advanced IP Routing, Switching & Troubleshooting (Cisco)",
+        "issuer": "Cisco",
+        "snhu_cpl": true,
+        "credits_est": 3
+      }
+    ],
+    "experience": [
+      {
+        "title": "Account Manager",
+        "company": "Hawk-Eye Protective Services",
+        "duration": "2024\u2013Present",
+        "highlights": [
+          "Portfolio: $2.5M annual revenue, 10 high-value client accounts",
+          "Team: 90+ employees",
+          "Training program coordination",
+          "Client relationship management and escalation resolution"
+        ]
+      },
+      {
+        "title": "Area Supervisor",
+        "company": "Hawk-Eye Protective Services",
+        "duration": "2021\u20132023",
+        "highlights": [
+          "Multi-site management",
+          "Technology consulting for client sites"
+        ]
+      },
+      {
+        "title": "IT Consultant (Self-Employed)",
+        "company": "Independent",
+        "duration": "2019\u20132024",
+        "highlights": [
+          "Network design and implementation for SMBs",
+          "Router, proxy, switch, WAN, DNS/DHCP configuration"
+        ]
+      },
+      {
+        "title": "IT Consultant",
+        "company": "Concession\u00e1ria Porto Novo S.A.",
+        "duration": "2016\u20132019",
+        "highlights": [
+          "Full IT infrastructure implementation",
+          "Cisco, HP, Fortinet, Extreme Networks configuration",
+          "IT budget management"
+        ]
+      }
+    ],
+    "core_skills": [
+      "Network Architecture & Configuration (CCNA-level)",
+      "Cybersecurity & Information Assurance",
+      "Windows Server Administration (MCSA)",
+      "IT Infrastructure & Systems Integration",
+      "Operations Management",
+      "Account & Client Management",
+      "Team Leadership & Coaching (90+ employees)",
+      "Project Management (PMBOK/ITIL)",
+      "Budget Oversight",
+      "AI/ML Fundamentals (in progress)",
+      "Virtualization",
+      "Process Improvement",
+      "Trilingual Business Communication"
+    ],
+    "total_years_experience": 20,
+    "wes_evaluation_pending": true
+  },
+  "SNHU_PROGRAMS": [
+    {
+      "level": "Bachelor's",
+      "name": "BA in Information Technologies",
+      "url": "https://www.snhu.edu/online-degrees/bachelors/ba-in-information-technologies",
+      "total_credits": 120,
+      "max_transfer": 90,
+      "notes": "Most transfer-friendly IT option \u2014 21 free elective credits",
+      "relevant_to": [
+        "IT operations",
+        "networking",
+        "systems",
+        "tech leadership"
+      ]
+    },
+    {
+      "level": "Bachelor's",
+      "name": "BS in Information Technologies",
+      "url": "https://www.snhu.edu/online-degrees/bachelors/bs-in-information-technologies",
+      "total_credits": 120,
+      "max_transfer": 90,
+      "notes": "Technical depth with 5 concentration options",
+      "relevant_to": [
+        "IT operations",
+        "networking",
+        "cybersecurity concentration"
+      ]
+    },
+    {
+      "level": "Bachelor's",
+      "name": "BS in Cybersecurity",
+      "url": "https://www.snhu.edu/online-degrees/bachelors/cyber-security",
+      "total_credits": 120,
+      "max_transfer": 90,
+      "notes": "Direct alignment with ISC2 CC, CCNA, CompTIA certs",
+      "relevant_to": [
+        "cybersecurity",
+        "network security",
+        "information assurance"
+      ]
+    },
+    {
+      "level": "Bachelor's",
+      "name": "BS in Business Administration (IT Management concentration)",
+      "url": "https://www.snhu.edu/online-degrees/bachelors/bs-in-business-administration/management-information-systems",
+      "total_credits": 120,
+      "max_transfer": 90,
+      "notes": "Business + tech hybrid \u2014 strong for leadership positioning",
+      "relevant_to": [
+        "leadership",
+        "operations",
+        "business strategy",
+        "IT management"
+      ]
+    },
+    {
+      "level": "Master's",
+      "name": "MBA Online",
+      "url": "https://www.snhu.edu/online-degrees/masters/mba-online",
+      "total_credits": 36,
+      "max_transfer": 0,
+      "notes": "Completable in ~12 months. Requires bachelor's first.",
+      "relevant_to": [
+        "leadership",
+        "strategy",
+        "C-suite positioning",
+        "operations"
+      ]
+    },
+    {
+      "level": "Master's",
+      "name": "MS in Computer Science (AI concentration)",
+      "url": "https://www.snhu.edu/online-degrees/masters/ms-in-computer-science",
+      "total_credits": 36,
+      "max_transfer": 0,
+      "notes": "AI/ML specialization \u2014 direct alignment with PUC Minas track",
+      "relevant_to": [
+        "AI",
+        "machine learning",
+        "software engineering",
+        "tech leadership"
+      ]
+    },
+    {
+      "level": "Master's",
+      "name": "MS in Cybersecurity",
+      "url": "https://www.snhu.edu/online-degrees/masters/ms-in-cyber-security",
+      "total_credits": 36,
+      "max_transfer": 0,
+      "notes": "Builds directly on Security+, CCNA, ISC2 stack",
+      "relevant_to": [
+        "cybersecurity",
+        "information security",
+        "security management"
+      ]
+    }
+  ],
+  "SOPHIA_COURSES": [
+    {
+      "course": "English Composition I",
+      "credits": 3,
+      "months": 1
+    },
+    {
+      "course": "English Composition II",
+      "credits": 3,
+      "months": 1
+    },
+    {
+      "course": "Introduction to Statistics",
+      "credits": 3,
+      "months": 1
+    },
+    {
+      "course": "Introduction to Philosophy",
+      "credits": 3,
+      "months": 1
+    },
+    {
+      "course": "US History",
+      "credits": 3,
+      "months": 1
+    },
+    {
+      "course": "Macroeconomics",
+      "credits": 3,
+      "months": 1
+    },
+    {
+      "course": "Microeconomics",
+      "credits": 3,
+      "months": 1
+    },
+    {
+      "course": "Introduction to Psychology",
+      "credits": 3,
+      "months": 1
+    },
+    {
+      "course": "Business Communication",
+      "credits": 3,
+      "months": 1
+    },
+    {
+      "course": "Project Management",
+      "credits": 3,
+      "months": 1
+    }
+  ],
+  "CREDIT_ESTIMATE": {
+    "certifications": 48,
+    "education": 75,
+    "sophia_gen_ed": 30,
+    "total_potential": 153,
+    "total_capped_at_snhu_max": 90,
+    "remaining_at_snhu": 30,
+    "sophia_months": 3,
+    "sophia_cost_usd": 297
+  }
+}

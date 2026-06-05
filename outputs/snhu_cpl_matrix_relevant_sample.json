@@ -1,0 +1,3267 @@
+{
+  "source": {
+    "catalog_id": "689dda35056c34c510a3a86b",
+    "experience_catalog_id": "62d0386e064ce7001cec61d1",
+    "work_life_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/home"
+  },
+  "programs": {
+    "BA_IT": {
+      "key": "BA_IT",
+      "pid": "EyjsXN8tl",
+      "title": "Information Technologies (BA)",
+      "code": "BA.ITE",
+      "description": "Technology has become inseparable from an organization’s operations, including applying digital strategies to leverage data, collaborating in virtual work environments and leveraging established and emerging technologies. The Bachelor of Arts in Information Technologies gives students the opportunity to combine technical abilities, people skills, and a keen problem-solving mindset to help organizations large and small leverage new technologies for innovating practices, products, and processes. This degree will prepare students for current IT work and provide the skills and dispositions to ready themselves and their organizations for the rapid evolution of future technologies. Students will learn the fundamental information technologies, systems, data management methods, and computational thinking strategies necessary to support organizational decision-making and recommend effective system design and maintenance solutions. They will also learn to operate in an ever-changing work environment where communication, collaboration, and the drive to proactively identify and solve problems are markers of success. Learning through hands-on authentic problems, students in this degree program will demonstrate the necessary skills that will allow them to grow and adapt within the field of information technology.",
+      "total_credits": 120,
+      "courses": [
+        {
+          "code": "IT140",
+          "title": "Introduction to Scripting",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT200",
+          "title": "Fundamentals of Information Technology",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT202",
+          "title": "Computer Operating Systems",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT212",
+          "title": "Introduction to Computer Networks",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT226",
+          "title": "Communication in STEM Professions",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT253",
+          "title": "Computer Systems Security",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT260",
+          "title": "Web-Oriented Services",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT272",
+          "title": "Cross-Platform Technologies",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT304",
+          "title": "Systems Requirements and Implementation Planning",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT313",
+          "title": "Risk Management and Mitigation in System Design",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT337",
+          "title": "User-Centered Systems Design and Evaluation",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT409",
+          "title": "Impact of Systems on Organizations",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT423",
+          "title": "Computing as a Service",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT482",
+          "title": "IT Operations and Systems Planning",
+          "credits_text": "3"
+        },
+        {
+          "code": "MGT200",
+          "title": "Leadership and Team Building",
+          "credits_text": "3"
+        },
+        {
+          "code": "QSO340",
+          "title": "Project Management",
+          "credits_text": "3"
+        },
+        {
+          "code": "QSO345",
+          "title": "Project Management for CAPM® Certification",
+          "credits_text": "3"
+        }
+      ],
+      "specializations": []
+    },
+    "MS_CYBERSECURITY": {
+      "key": "MS_CYBERSECURITY",
+      "pid": "4112448tg",
+      "title": "Cyber Security (MS)",
+      "code": "MS.CSE",
+      "description": "With the rise in cybercrime in the US, the need for professionals to protect against ever increasing cyber security risks, stay current with rapid technology changes, and understand changing compliance requirements has become essential across organizations. Graduates of the Master of Science in Cyber Security program will gain competence in managing the design, oversight and assessment of information security for an enterprise with a focus on the human element of information security. The degree program will focus on five key areas of competence: information security governance, information security risk and compliance, information security program creation and management, information security incidence response and business continuity, and leadership/collaboration and communication.\n\nThe Master of Science in Cyber Security program is designed for students who want to meet the challenges posed by security threats, learn to protect the confidentiality, availability, and integrity of data, and develop risk management and mitigation strategies. Graduates of this program will be prepared for a wide range of careers in the security field as managers, analysts, developers, or administrators of varying aspects of information security and assurance.",
+      "total_credits": 36,
+      "courses": [
+        {
+          "code": "IT505",
+          "title": "Core Technologies",
+          "credits_text": "3"
+        },
+        {
+          "code": "ISE510",
+          "title": "Security Risk Analysis and Planning",
+          "credits_text": "3"
+        },
+        {
+          "code": "ISE620",
+          "title": "Incident Detection and Response",
+          "credits_text": "3"
+        },
+        {
+          "code": "ISE640",
+          "title": "Investigation and Digital Forensics",
+          "credits_text": "3"
+        },
+        {
+          "code": "ISE690",
+          "title": "Cyber Security Capstone",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT549",
+          "title": "Foundation in Information Assurance",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT552",
+          "title": "Human Factors in Security",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT640",
+          "title": "Telecommunications and Networking",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT643",
+          "title": "Network Assessment and Defense",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT659",
+          "title": "Cyberlaw and Ethics",
+          "credits_text": "3"
+        },
+        {
+          "code": "SNHU690",
+          "title": "Internship",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT505",
+          "title": "Core Technologies",
+          "credits_text": "3"
+        }
+      ],
+      "specializations": [
+        {
+          "title": "Information Technology Management (Concentration)",
+          "pid": "41hvnBEcx"
+        }
+      ]
+    },
+    "MS_IT": {
+      "key": "MS_IT",
+      "pid": "4kK2V4LYg",
+      "title": "Information Technology (MS)",
+      "code": "MS.IT",
+      "description": "Businesses today are looking for employees with capabilities beyond traditional programming and IT expertise. Professionals who can bridge the communication gap between IT and business segments are valuable but hard to find, and the demand for this new breed of IT professional is growing. The Master of Science in Information Technology program is designed for students who wish to pursue careers in the analysis, design, creation and management of information technology systems through the application of contemporary technologies. The program emphasizes practical skills based on fundamental core technologies along with their technical and ethical foundations. Students will analyze business needs and determine information systems requirements for those needs by applying an iterative, case-driven process.",
+      "total_credits": 36,
+      "courses": [
+        {
+          "code": "IT505",
+          "title": "Core Technologies",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT510",
+          "title": "Advanced Information Technology",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT511",
+          "title": "Object Oriented Application Development",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT515",
+          "title": "Innovations in Information Technology",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT520",
+          "title": "Technical Communication",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT600",
+          "title": "Operating Systems",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT640",
+          "title": "Telecommunications and Networking",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT700",
+          "title": "Capstone in Information Technology",
+          "credits_text": "3"
+        },
+        {
+          "code": "CIS525",
+          "title": "Applied Data Structure and Database",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT650",
+          "title": "Principles of Database Design",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT625",
+          "title": "Information Technology Project and Team Management",
+          "credits_text": "3"
+        },
+        {
+          "code": "QSO640",
+          "title": "Project Management",
+          "credits_text": "3"
+        },
+        {
+          "code": "SNHU690",
+          "title": "Internship",
+          "credits_text": "3"
+        },
+        {
+          "code": "DAT500",
+          "title": "Data and Information Management",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT505",
+          "title": "Core Technologies",
+          "credits_text": "3"
+        }
+      ],
+      "specializations": [
+        {
+          "title": "Artificial Intelligence for Business Innovation and Strategy (Concentration)",
+          "pid": "HkelV9cDll"
+        },
+        {
+          "title": "Business Analytics (Concentration)",
+          "pid": "HJAPTD387"
+        },
+        {
+          "title": "Data Analytics (Concentration)",
+          "pid": "E1pRhHEce"
+        },
+        {
+          "title": "Enterprise Technology Management  (Concentration)",
+          "pid": "H1evj2xnu"
+        },
+        {
+          "title": "Healthcare Informatics (Concentration)",
+          "pid": "NybHTBN5l"
+        },
+        {
+          "title": "Information Security (Concentration)",
+          "pid": "V1gvpS4qg"
+        },
+        {
+          "title": "Software Application Development (Concentration)",
+          "pid": "4kajaBEql"
+        },
+        {
+          "title": "Web Design (Concentration)",
+          "pid": "V1z10HE5g"
+        }
+      ]
+    }
+  },
+  "experiences": [
+    {
+      "vendor": "Amazon Web Services (AWS)",
+      "category": "Certificate",
+      "title": " AWS Certified Developer Associate",
+      "code": "PLA-CT 00301",
+      "pid": "B1Uc7pYPR",
+      "eligibility_timeframe": "3 years",
+      "equivalent_courses": [
+        {
+          "code": "IT476",
+          "title": "Experiential Learning",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/B1Uc7pYPR"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": " Business 303: Management Information Systems",
+      "code": "SDCM-0123",
+      "pid": "ryI2xl5L0",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "MIS3ELE",
+          "title": "Management Information Systems Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryI2xl5L0"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Accounting 101: Financial Accounting",
+      "code": "ACE-CS 000006",
+      "pid": "Hkxj0Cx08",
+      "eligibility_timeframe": "",
+      "equivalent_courses": [
+        {
+          "code": "ACC201",
+          "title": "Financial Accounting",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Hkxj0Cx08"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Accounting 102: Intro to Managerial Accounting",
+      "code": "ACE-CS 000289",
+      "pid": "Skv7KbbAI",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "ACC202",
+          "title": "Managerial Accounting",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Skv7KbbAI"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Accounting 201: Intermediate Financial Accounting l",
+      "code": "ACE-CS 000691",
+      "pid": "BJFIP_gPO",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "ACC307",
+          "title": "Intermediate Accounting I",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJFIP_gPO"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Accounting 202: Intermediate Accounting II",
+      "code": "ACE-CS 000168",
+      "pid": "B130wbW0U",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "ACC318",
+          "title": "Intermediate Accounting II",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/B130wbW0U"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Accounting 302: Advanced Accounting",
+      "code": "ACE-CS 000171",
+      "pid": "HkZI2CeRI",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "ACC3ELE",
+          "title": "Accounting Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkZI2CeRI"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Accounting 303: Cost Accounting",
+      "code": "ACE-CS 000706",
+      "pid": "HJ6SfsDc_",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "ACC311",
+          "title": "Cost Accounting",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HJ6SfsDc_"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Anatomy & Physiology I",
+      "code": "SOPH-0073",
+      "pid": "SkEnZkwq3",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BIO205",
+          "title": "Human Anatomy and Physiology I",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkEnZkwq3"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Anatomy & Physiology I Lab",
+      "code": "SOPH-0072",
+      "pid": "SJXkCkdq3",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BIO205L",
+          "title": "Human Anatomy and Physiology I Lab",
+          "credits_text": "1"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SJXkCkdq3"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Anatomy & Physiology I with Lab",
+      "code": "ACE-CS 000751",
+      "pid": "HyWl936Tu",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BIO210",
+          "title": "Introduction to Anatomy and Physiology",
+          "credits_text": "3"
+        },
+        {
+          "code": "BIO210L",
+          "title": "Anatomy and Physiology Lab",
+          "credits_text": "1"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HyWl936Tu"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Anatomy & Physiology II",
+      "code": "SOPH-0081",
+      "pid": "SyOtzcMGR",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "BIO211",
+          "title": "Human Anatomy and Physiology II",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyOtzcMGR"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Anatomy & Physiology II Lab",
+      "code": "SOPH-0082",
+      "pid": "HJCkRYAlkx",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BIO211L",
+          "title": "Human Anatomy and Physiology II Lab",
+          "credits_text": "1"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HJCkRYAlkx"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Ancient Greek Philosophers",
+      "code": "ACE-CS 000338",
+      "pid": "SyM-E0eRI",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyM-E0eRI"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Approaches to Studying Religions ",
+      "code": "ACE-CS 000394",
+      "pid": "BJdf4ClAI",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "PHL230",
+          "title": "Religions of the World",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJdf4ClAI"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Art 103: History of Western Art I",
+      "code": "ACE-CS 000573",
+      "pid": "SkIEvbbA8",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "FAS201",
+          "title": "Introduction to Humanities I",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkIEvbbA8"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Art 104: History of Western Art II",
+      "code": "ACE-CS 000690",
+      "pid": "By4KIOgvu",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "FAS202",
+          "title": "Introduction to Humanities II",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/By4KIOgvu"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Art History I",
+      "code": "ACE-CS 000377",
+      "pid": "B1h74CgRL",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "FAS201",
+          "title": "Introduction to Humanities I",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/B1h74CgRL"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Art History II",
+      "code": "ACE-CS 000580",
+      "pid": "SykHE0l0L",
+      "eligibility_timeframe": "",
+      "equivalent_courses": [
+        {
+          "code": "FAS202",
+          "title": "Introduction to Humanities II",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SykHE0l0L"
+    },
+    {
+      "vendor": "Amazon Web Services (AWS)",
+      "category": "Exam",
+      "title": "AWS Certified AI Practitioner",
+      "code": "PLA-CT 00390",
+      "pid": "BJjHXqREbl",
+      "eligibility_timeframe": "",
+      "equivalent_courses": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJjHXqREbl"
+    },
+    {
+      "vendor": "Amazon Web Services (AWS)",
+      "category": "Exam",
+      "title": "AWS Certified DevOps Engineer - Professional",
+      "code": "PLA-CT 00385",
+      "pid": "HkNF7bfWbe",
+      "eligibility_timeframe": "Active certification",
+      "equivalent_courses": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkNF7bfWbe"
+    },
+    {
+      "vendor": "Amazon Web Services (AWS)",
+      "category": "Certificate",
+      "title": "AWS Certified Solutions Architect - Associate",
+      "code": "PLA-CT 00357",
+      "pid": "S1E6wAzTxe",
+      "eligibility_timeframe": "Active Certification",
+      "equivalent_courses": [
+        {
+          "code": "IT200",
+          "title": "Fundamentals of Information Technology",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT202",
+          "title": "Computer Operating Systems",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/S1E6wAzTxe"
+    },
+    {
+      "vendor": "Amazon Web Services (AWS)",
+      "category": "External Course",
+      "title": "AWS Cloud Institute",
+      "code": "PLA-CT 00309",
+      "pid": "ByCd8xtWJe",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "IT226",
+          "title": "Communication in STEM Professions",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT140",
+          "title": "Introduction to Scripting",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS300",
+          "title": "Data Structures and Algorithms: Analysis and Design",
+          "credits_text": "3"
+        },
+        {
+          "code": "DAD220",
+          "title": "Introduction to Structured Database Environments",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS465",
+          "title": "Full Stack Development I",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS4ELE",
+          "title": "Computer Science Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ByCd8xtWJe"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Biology 101: Introduction to Biology",
+      "code": "ACE-CS 000077",
+      "pid": "Symfd-WCU",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "BIO120",
+          "title": "General Biology I",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Symfd-WCU"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Biology 102: Basic Genetics",
+      "code": "ACE-CS 000589",
+      "pid": "BJKlp0xA8",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BIO270",
+          "title": "Genetics",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJKlp0xA8"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Biology 103: Microbiology",
+      "code": "ACE-CS 000314",
+      "pid": "r1ViYZbAU",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BIO212",
+          "title": "Microbiology",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r1ViYZbAU"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Biology 105: Anatomy and Physiology",
+      "code": "ACE-CS 000220",
+      "pid": "BJhC3Al0L",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BIO210",
+          "title": "Introduction to Anatomy and Physiology",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJhC3Al0L"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Biology 106: Pathophysiology",
+      "code": "ACE-CS 000552",
+      "pid": "r1w0YWZ08",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "NUR315",
+          "title": "Pathophysiology for Nurses",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r1w0YWZ08"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Biology 107L: Clinical Microbiology with Lab",
+      "code": "ACE-CS 000750",
+      "pid": "rJFzY2ap_",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "BIO1ELE",
+          "title": "Biology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rJFzY2ap_"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Biology 202L: Anatomy & Physiology II with Lab",
+      "code": "ACE-CS 000752",
+      "pid": "H1y3c36aO",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BIO211",
+          "title": "Human Anatomy and Physiology II",
+          "credits_text": "3"
+        },
+        {
+          "code": "BIO211L",
+          "title": "Human Anatomy and Physiology II Lab",
+          "credits_text": "1"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H1y3c36aO"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "BUS 103: Introductory Business Law",
+      "code": "ACE-CS 000014",
+      "pid": "HJ1LF--AU",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BUS206",
+          "title": "Business Law I",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HJ1LF--AU"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "BUS 120: International Business",
+      "code": "ACE-CS 000333",
+      "pid": "Byh1dbb0I",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "INT220",
+          "title": "Global Dimensions in Business",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Byh1dbb0I"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "BUS-312: Advanced Operations Management",
+      "code": "ACE-CS 000187",
+      "pid": "Bked2ClAL",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "QSO321",
+          "title": "People, Planet, and Profit",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Bked2ClAL"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 100: Intro to Business",
+      "code": "ACE-CS 000510",
+      "pid": "S1_S_ZWRU",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "OL110",
+          "title": "Introduction to Business",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/S1_S_ZWRU"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 101: Principles of Management",
+      "code": "ACE-CS 000025",
+      "pid": "SyszqZZ0I",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "OL215",
+          "title": "Principles of Management",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyszqZZ0I"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 102: Principles of Marketing",
+      "code": "ACE-CS 000522",
+      "pid": "H1iXq-b0L",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "MKT205",
+          "title": "Applied Marketing Strategies",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H1iXq-b0L"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 106: Human Resource Management",
+      "code": "ACE-CS 000017",
+      "pid": "HkBcvZZAI",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "OL211",
+          "title": "Human Resource Management",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkBcvZZAI"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 107: Organizational Behavior",
+      "code": "ACE-CS 000237",
+      "pid": "Syj2FbW0I",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "OL342",
+          "title": "Organizational Behavior",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Syj2FbW0I"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 109: Intro to Computing",
+      "code": "ACE-CS 000210",
+      "pid": "B16v_b-0I",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "IT100",
+          "title": "Introduction to Information Technology",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/B16v_b-0I"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 110: Business Math",
+      "code": "ACE-CS 000753",
+      "pid": "rk8ShhTTd",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "MAT1ELE",
+          "title": "Mathematics Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rk8ShhTTd"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 111: Principles of Supervision",
+      "code": "ACE-CS 000178",
+      "pid": "SyZI9--0I",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "BUS210",
+          "title": "Managing and Leading in Business",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyZI9--0I"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 112: Intro to Project Management",
+      "code": "SDCM-0248",
+      "pid": "BJE83xVAge",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "QSO340",
+          "title": "Project Management",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJE83xVAge"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 202: Introduction to E-Commerce",
+      "code": "SDCM-0139",
+      "pid": "r11laGkdC",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "MKT1ELE",
+          "title": "Marketing Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r11laGkdC"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 209: Mentoring and Leadership Development in the Workplace",
+      "code": "NCC-CS 00379",
+      "pid": "By_ra_qyWx",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "OL1ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/By_ra_qyWx"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 212: Business Statistics",
+      "code": "ACE-CS 000429",
+      "pid": "H1PQ6CgAU",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "MAT240",
+          "title": "Applied Statistics",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H1PQ6CgAU"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 302: Foundations of Leadership",
+      "code": "SDCM-0116",
+      "pid": "rJOhJuseh",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "OL328",
+          "title": "Leadership",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rJOhJuseh"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 305: Leadership Communication",
+      "code": "SDCM-0117",
+      "pid": "SkarFgW6h",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "OL328",
+          "title": "Leadership",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkarFgW6h"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 309: Digital Marketing & Advertising",
+      "code": "SDCM-0072",
+      "pid": "Skh8lYaZ6",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "MKT335",
+          "title": "Digital Advertising",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Skh8lYaZ6"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 315: Logistics & Supply Chain Management",
+      "code": "SDCM-0086",
+      "pid": "Sy1OXCc2j",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "QSO330",
+          "title": "Supply Chain Management",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Sy1OXCc2j"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "Exam",
+      "title": "Business 318: Management Ethics",
+      "code": "SDCM-0142",
+      "pid": "r1m1_gCoR",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "PHL316",
+          "title": "Business Ethics",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r1m1_gCoR"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 319: Negotiations & Conflict Management",
+      "code": "SDCM-0146",
+      "pid": "BkCTucqJ-x",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "OL3ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BkCTucqJ-x"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 321: Small Business Management",
+      "code": "ACE-CS 000612",
+      "pid": "r1QBhCECv",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "OL317",
+          "title": "Small Business Management",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r1QBhCECv"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 324: Managerial Communication",
+      "code": "SDCM-0140",
+      "pid": "ryzYchkggg",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "OL3ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryzYchkggg"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business 327: Retail Strategy",
+      "code": "SDCM-0143",
+      "pid": "HJjwLtq1-g",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "MKT3ELE",
+          "title": "Marketing Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HJjwLtq1-g"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Business Communication",
+      "code": "SOPH-0059",
+      "pid": "By1HsYZ0q",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "ENG220",
+          "title": "Business Communication",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/By1HsYZ0q"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Business Data Analytics",
+      "code": "SOPH-0091",
+      "pid": "SyXgbDWSlx",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "QSO250",
+          "title": "Business Analytics",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyXgbDWSlx"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Business Ethics",
+      "code": "SOPH-0076",
+      "pid": "BkhGgYBs3",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BkhGgYBs3"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business Ethics 108: Business Ethics",
+      "code": "ACE-CS 000515",
+      "pid": "ByIGTCe08",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ByIGTCe08"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Business Law",
+      "code": "ACE-CS 000605",
+      "pid": "B1E2fHH9w",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "BUS206",
+          "title": "Business Law I",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/B1E2fHH9w"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Business104: Information Systems & Computer Applications",
+      "code": "ACE-CS 000226",
+      "pid": "H1wpvZbRI",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "IT210",
+          "title": "Business Systems Analysis and Design",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H1wpvZbRI"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Calculus I",
+      "code": "SOPH-0060",
+      "pid": "Sk0AQCH39",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "MAT225",
+          "title": "Calculus I: Single-Variable Calculus",
+          "credits_text": "3"
+        },
+        {
+          "code": "MAT2ELE",
+          "title": "Mathematics Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Sk0AQCH39"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "Career Readiness 1010",
+      "code": "SOPH-0066",
+      "pid": "ryYFaA_y2",
+      "eligibility_timeframe": "",
+      "equivalent_courses": [
+        {
+          "code": "GEN1ELE",
+          "title": "General Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryYFaA_y2"
+    },
+    {
+      "vendor": "Cisco",
+      "category": "Certificate",
+      "title": "CCNA Routing and Switching",
+      "code": "PLA-CT 00140",
+      "pid": "S1F8i4Hki",
+      "eligibility_timeframe": "5 years",
+      "equivalent_courses": [
+        {
+          "code": "CYB210",
+          "title": "Computer Networking",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/S1F8i4Hki"
+    },
+    {
+      "vendor": "Project Management Institute (PMI)",
+      "category": "External Course",
+      "title": "Certified Associate in Project Management (CAPM)",
+      "code": "PLA-CS 00040",
+      "pid": "ry7MnFvrv",
+      "eligibility_timeframe": "Active Certification",
+      "equivalent_courses": [
+        {
+          "code": "QSO345",
+          "title": "Project Management for CAPM® Certification",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry7MnFvrv"
+    },
+    {
+      "vendor": "ISC2 International Information Security Certification Consortium",
+      "category": "Exam",
+      "title": "Certified Governance Risk and Compliance Exam (CGRC)",
+      "code": "ISCT-0010",
+      "pid": "SkoD-z9dxg",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "CYB400",
+          "title": "Security Assessment and Auditing",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT2ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkoD-z9dxg"
+    },
+    {
+      "vendor": "ISC2 International Information Security Certification Consortium",
+      "category": "Certificate",
+      "title": "Certified in Cybersecurity Exam",
+      "code": "ISCT-0011",
+      "pid": "SJRBU_9Gyg",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "CYB200",
+          "title": "Cybersecurity Foundations",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SJRBU_9Gyg"
+    },
+    {
+      "vendor": "ISC2 International Information Security Certification Consortium",
+      "category": "Exam",
+      "title": "Certified Information Systems Security Professional Exam (CISSP)",
+      "code": "ISC-CT 01",
+      "pid": "Skw1suorD",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "CYB200",
+          "title": "Cybersecurity Foundations",
+          "credits_text": "3"
+        },
+        {
+          "code": "CYB250",
+          "title": "Cyber Defense",
+          "credits_text": "3"
+        },
+        {
+          "code": "CYB260",
+          "title": "Legal and Human Factors of Cybersecurity",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Skw1suorD"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Chemistry 101: General Chemistry",
+      "code": "ACE-CS 000710",
+      "pid": "ry2dkU0qu",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "CHM101",
+          "title": "Fundamentals of Chemistry",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry2dkU0qu"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Chemistry 111L: Chemistry I with Lab",
+      "code": "SDCM-0194",
+      "pid": "HkFC5AAjq",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "CHM120",
+          "title": "General Chemistry I",
+          "credits_text": "3"
+        },
+        {
+          "code": "CHM120L",
+          "title": "General Chemistry I Lab",
+          "credits_text": "1"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkFC5AAjq"
+    },
+    {
+      "vendor": "Cisco",
+      "category": "Exam",
+      "title": "Cisco Certified Networking Associate (CCNA)",
+      "code": "CIS-EX 02",
+      "pid": "rJPguLCNw",
+      "eligibility_timeframe": "Active certification",
+      "equivalent_courses": [
+        {
+          "code": "IT212",
+          "title": "Introduction to Computer Networks",
+          "credits_text": "3"
+        },
+        {
+          "code": "CYB210",
+          "title": "Computer Networking",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rJPguLCNw"
+    },
+    {
+      "vendor": "Google",
+      "category": "Certificate",
+      "title": "Cloud Computing Foundations Certificate",
+      "code": "GOOG-0012",
+      "pid": "ry3PSRrzxl",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry3PSRrzxl"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "College Algebra",
+      "code": "ACE-CS 000234",
+      "pid": "HJkUV0gRI",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "MAT136",
+          "title": "Introduction to Quantitative Analysis",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HJkUV0gRI"
+    },
+    {
+      "vendor": "Sophia Learning",
+      "category": "External Course",
+      "title": "College Readiness",
+      "code": "ACE-CS 000606",
+      "pid": "H15z7rH5w",
+      "eligibility_timeframe": "",
+      "equivalent_courses": [
+        {
+          "code": "GEN1ELE",
+          "title": "General Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H15z7rH5w"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Communication 120: Presentation Skills in the Workplace",
+      "code": "NCC-CS 037",
+      "pid": "ry71fBR5_",
+      "eligibility_timeframe": "Ongoing",
+      "equivalent_courses": [
+        {
+          "code": "ENG1ELE",
+          "title": "English Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry71fBR5_"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Communications 101: Public Speaking",
+      "code": "ACE-CS 000695",
+      "pid": "rJ0qouxP_",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "COM212",
+          "title": "Public Speaking",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rJ0qouxP_"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Communications 102: Interpersonal Communication",
+      "code": "SDCM-0122",
+      "pid": "S1aS4hrf2",
+      "eligibility_timeframe": "",
+      "equivalent_courses": [
+        {
+          "code": "COM1ELE",
+          "title": "Communication Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/S1aS4hrf2"
+    },
+    {
+      "vendor": "Study.com",
+      "category": "External Course",
+      "title": "Communications 301: Diversity and Intercultural Communication",
+      "code": "ACE-CS 000797",
+      "pid": "B1AxrenlY",
+      "eligibility_timeframe": null,
+      "equivalent_courses": [
+        {
+          "code": "COM220",
+          "title": "Intercultural Communication",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/B1AxrenlY"
+    },
+    {
+      "vendor": "CompTIA",
+      "category": "Certificate",
+      "title": "CompTIA A+",
+      "code": "COM-CT 01",
+      "pid": "SyL3w_jrP",
+      "eligibility_timeframe": "Active certification",
+      "equivalent_courses": [
+        {
+          "code": "IT202",
+          "title": "Computer Operating Systems",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyL3w_jrP"
+    },
+    {
+      "vendor": "CompTIA",
+      "category": "Certificate",
+      "title": "CompTIA Cloud+",
+      "code": "PLA-CT 00399",
+      "pid": "ryaLwrUuWg",
+      "eligibility_timeframe": "Active certification",
+      "equivalent_courses": [
+        {
+          "code": "IT221",
+          "title": "Web-based Information Technology",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryaLwrUuWg"
+    },
+    {
+      "vendor": "CompTIA",
+      "category": "Certificate",
+      "title": "CompTIA Cybersecurity (CySA+)",
+      "code": "COM-CT 06",
+      "pid": "SkEEcujBD",
+      "eligibility_timeframe": "Active certification",
+      "equivalent_courses": [
+        {
+          "code": "CYB200",
+          "title": "Cybersecurity Foundations",
+          "credits_text": "3"
+        },
+        {
+          "code": "CYB220",
+          "title": "Network Security",
+          "credits_text": "3"
+        }
+      ],
+      "raw_url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkEEcujBD"
+    }
+  ],
+  "matches": [
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": " Business 303: Management Information Systems",
+      "experience_code": "SDCM-0123",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MIS3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MIS3ELE",
+          "title": "Management Information Systems Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryI2xl5L0"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": " Business 303: Management Information Systems",
+      "experience_code": "SDCM-0123",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MIS3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MIS3ELE",
+          "title": "Management Information Systems Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryI2xl5L0"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": " Business 303: Management Information Systems",
+      "experience_code": "SDCM-0123",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MIS3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MIS3ELE",
+          "title": "Management Information Systems Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryI2xl5L0"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Accounting 302: Advanced Accounting",
+      "experience_code": "ACE-CS 000171",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "ACC3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "ACC3ELE",
+          "title": "Accounting Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkZI2CeRI"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Accounting 302: Advanced Accounting",
+      "experience_code": "ACE-CS 000171",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "ACC3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "ACC3ELE",
+          "title": "Accounting Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkZI2CeRI"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Accounting 302: Advanced Accounting",
+      "experience_code": "ACE-CS 000171",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "ACC3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "ACC3ELE",
+          "title": "Accounting Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkZI2CeRI"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Sophia Learning",
+      "experience": "Ancient Greek Philosophers",
+      "experience_code": "ACE-CS 000338",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "PHL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyM-E0eRI"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Sophia Learning",
+      "experience": "Ancient Greek Philosophers",
+      "experience_code": "ACE-CS 000338",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "PHL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyM-E0eRI"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Sophia Learning",
+      "experience": "Ancient Greek Philosophers",
+      "experience_code": "ACE-CS 000338",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "PHL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyM-E0eRI"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Certified AI Practitioner",
+      "experience_code": "PLA-CT 00390",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJjHXqREbl"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Certified AI Practitioner",
+      "experience_code": "PLA-CT 00390",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJjHXqREbl"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Certified AI Practitioner",
+      "experience_code": "PLA-CT 00390",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJjHXqREbl"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Certified DevOps Engineer - Professional",
+      "experience_code": "PLA-CT 00385",
+      "eligibility_timeframe": "Active certification",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkNF7bfWbe"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Certified DevOps Engineer - Professional",
+      "experience_code": "PLA-CT 00385",
+      "eligibility_timeframe": "Active certification",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkNF7bfWbe"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Certified DevOps Engineer - Professional",
+      "experience_code": "PLA-CT 00385",
+      "eligibility_timeframe": "Active certification",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HkNF7bfWbe"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Certified Solutions Architect - Associate",
+      "experience_code": "PLA-CT 00357",
+      "eligibility_timeframe": "Active Certification",
+      "match_type": "Exact curriculum course",
+      "matched_codes": [
+        "IT200",
+        "IT202"
+      ],
+      "equivalents": [
+        {
+          "code": "IT200",
+          "title": "Fundamentals of Information Technology",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT202",
+          "title": "Computer Operating Systems",
+          "credits_text": "3"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/S1E6wAzTxe"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Cloud Institute",
+      "experience_code": "PLA-CT 00309",
+      "eligibility_timeframe": null,
+      "match_type": "Exact curriculum course",
+      "matched_codes": [
+        "IT140",
+        "IT226"
+      ],
+      "equivalents": [
+        {
+          "code": "IT226",
+          "title": "Communication in STEM Professions",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT140",
+          "title": "Introduction to Scripting",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS300",
+          "title": "Data Structures and Algorithms: Analysis and Design",
+          "credits_text": "3"
+        },
+        {
+          "code": "DAD220",
+          "title": "Introduction to Structured Database Environments",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS465",
+          "title": "Full Stack Development I",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS4ELE",
+          "title": "Computer Science Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ByCd8xtWJe"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Cloud Institute",
+      "experience_code": "PLA-CT 00309",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "CS4ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT226",
+          "title": "Communication in STEM Professions",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT140",
+          "title": "Introduction to Scripting",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS300",
+          "title": "Data Structures and Algorithms: Analysis and Design",
+          "credits_text": "3"
+        },
+        {
+          "code": "DAD220",
+          "title": "Introduction to Structured Database Environments",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS465",
+          "title": "Full Stack Development I",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS4ELE",
+          "title": "Computer Science Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ByCd8xtWJe"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Amazon Web Services (AWS)",
+      "experience": "AWS Cloud Institute",
+      "experience_code": "PLA-CT 00309",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "CS4ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT226",
+          "title": "Communication in STEM Professions",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT140",
+          "title": "Introduction to Scripting",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS300",
+          "title": "Data Structures and Algorithms: Analysis and Design",
+          "credits_text": "3"
+        },
+        {
+          "code": "DAD220",
+          "title": "Introduction to Structured Database Environments",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS465",
+          "title": "Full Stack Development I",
+          "credits_text": "3"
+        },
+        {
+          "code": "CS4ELE",
+          "title": "Computer Science Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ByCd8xtWJe"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Biology 107L: Clinical Microbiology with Lab",
+      "experience_code": "ACE-CS 000750",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "BIO1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "BIO1ELE",
+          "title": "Biology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rJFzY2ap_"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Biology 107L: Clinical Microbiology with Lab",
+      "experience_code": "ACE-CS 000750",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "BIO1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "BIO1ELE",
+          "title": "Biology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rJFzY2ap_"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Biology 107L: Clinical Microbiology with Lab",
+      "experience_code": "ACE-CS 000750",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "BIO1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "BIO1ELE",
+          "title": "Biology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rJFzY2ap_"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Business 110: Business Math",
+      "experience_code": "ACE-CS 000753",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MAT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MAT1ELE",
+          "title": "Mathematics Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rk8ShhTTd"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Business 110: Business Math",
+      "experience_code": "ACE-CS 000753",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MAT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MAT1ELE",
+          "title": "Mathematics Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rk8ShhTTd"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Business 110: Business Math",
+      "experience_code": "ACE-CS 000753",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MAT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MAT1ELE",
+          "title": "Mathematics Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rk8ShhTTd"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Business 112: Intro to Project Management",
+      "experience_code": "SDCM-0248",
+      "eligibility_timeframe": null,
+      "match_type": "Exact curriculum course",
+      "matched_codes": [
+        "QSO340"
+      ],
+      "equivalents": [
+        {
+          "code": "QSO340",
+          "title": "Project Management",
+          "credits_text": "3"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJE83xVAge"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Business 202: Introduction to E-Commerce",
+      "experience_code": "SDCM-0139",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MKT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MKT1ELE",
+          "title": "Marketing Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r11laGkdC"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Business 202: Introduction to E-Commerce",
+      "experience_code": "SDCM-0139",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MKT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MKT1ELE",
+          "title": "Marketing Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r11laGkdC"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Business 202: Introduction to E-Commerce",
+      "experience_code": "SDCM-0139",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MKT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MKT1ELE",
+          "title": "Marketing Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r11laGkdC"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Business 209: Mentoring and Leadership Development in the Workplace",
+      "experience_code": "NCC-CS 00379",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "OL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "OL1ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/By_ra_qyWx"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Business 209: Mentoring and Leadership Development in the Workplace",
+      "experience_code": "NCC-CS 00379",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "OL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "OL1ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/By_ra_qyWx"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Business 209: Mentoring and Leadership Development in the Workplace",
+      "experience_code": "NCC-CS 00379",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "OL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "OL1ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/By_ra_qyWx"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Business 319: Negotiations & Conflict Management",
+      "experience_code": "SDCM-0146",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "OL3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "OL3ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BkCTucqJ-x"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Business 319: Negotiations & Conflict Management",
+      "experience_code": "SDCM-0146",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "OL3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "OL3ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BkCTucqJ-x"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Business 319: Negotiations & Conflict Management",
+      "experience_code": "SDCM-0146",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "OL3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "OL3ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BkCTucqJ-x"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Business 324: Managerial Communication",
+      "experience_code": "SDCM-0140",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "OL3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "OL3ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryzYchkggg"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Business 324: Managerial Communication",
+      "experience_code": "SDCM-0140",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "OL3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "OL3ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryzYchkggg"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Business 324: Managerial Communication",
+      "experience_code": "SDCM-0140",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "OL3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "OL3ELE",
+          "title": "Organizational Leadership Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryzYchkggg"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Business 327: Retail Strategy",
+      "experience_code": "SDCM-0143",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MKT3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MKT3ELE",
+          "title": "Marketing Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HJjwLtq1-g"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Business 327: Retail Strategy",
+      "experience_code": "SDCM-0143",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MKT3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MKT3ELE",
+          "title": "Marketing Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HJjwLtq1-g"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Business 327: Retail Strategy",
+      "experience_code": "SDCM-0143",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MKT3ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MKT3ELE",
+          "title": "Marketing Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/HJjwLtq1-g"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Sophia Learning",
+      "experience": "Business Ethics",
+      "experience_code": "SOPH-0076",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "PHL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BkhGgYBs3"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Sophia Learning",
+      "experience": "Business Ethics",
+      "experience_code": "SOPH-0076",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "PHL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BkhGgYBs3"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Sophia Learning",
+      "experience": "Business Ethics",
+      "experience_code": "SOPH-0076",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "PHL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BkhGgYBs3"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Business Ethics 108: Business Ethics",
+      "experience_code": "ACE-CS 000515",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "PHL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ByIGTCe08"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Business Ethics 108: Business Ethics",
+      "experience_code": "ACE-CS 000515",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "PHL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ByIGTCe08"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Business Ethics 108: Business Ethics",
+      "experience_code": "ACE-CS 000515",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "PHL1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "PHL1ELE",
+          "title": "Philosophy Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ByIGTCe08"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Sophia Learning",
+      "experience": "Calculus I",
+      "experience_code": "SOPH-0060",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MAT2ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MAT225",
+          "title": "Calculus I: Single-Variable Calculus",
+          "credits_text": "3"
+        },
+        {
+          "code": "MAT2ELE",
+          "title": "Mathematics Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Sk0AQCH39"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Sophia Learning",
+      "experience": "Calculus I",
+      "experience_code": "SOPH-0060",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MAT2ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MAT225",
+          "title": "Calculus I: Single-Variable Calculus",
+          "credits_text": "3"
+        },
+        {
+          "code": "MAT2ELE",
+          "title": "Mathematics Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Sk0AQCH39"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Sophia Learning",
+      "experience": "Calculus I",
+      "experience_code": "SOPH-0060",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "MAT2ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "MAT225",
+          "title": "Calculus I: Single-Variable Calculus",
+          "credits_text": "3"
+        },
+        {
+          "code": "MAT2ELE",
+          "title": "Mathematics Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Sk0AQCH39"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Sophia Learning",
+      "experience": "Career Readiness 1010",
+      "experience_code": "SOPH-0066",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "GEN1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "GEN1ELE",
+          "title": "General Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryYFaA_y2"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Sophia Learning",
+      "experience": "Career Readiness 1010",
+      "experience_code": "SOPH-0066",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "GEN1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "GEN1ELE",
+          "title": "General Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryYFaA_y2"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Sophia Learning",
+      "experience": "Career Readiness 1010",
+      "experience_code": "SOPH-0066",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "GEN1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "GEN1ELE",
+          "title": "General Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ryYFaA_y2"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Project Management Institute (PMI)",
+      "experience": "Certified Associate in Project Management (CAPM)",
+      "experience_code": "PLA-CS 00040",
+      "eligibility_timeframe": "Active Certification",
+      "match_type": "Exact curriculum course",
+      "matched_codes": [
+        "QSO345"
+      ],
+      "equivalents": [
+        {
+          "code": "QSO345",
+          "title": "Project Management for CAPM® Certification",
+          "credits_text": "3"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry7MnFvrv"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "ISC2 International Information Security Certification Consortium",
+      "experience": "Certified Governance Risk and Compliance Exam (CGRC)",
+      "experience_code": "ISCT-0010",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT2ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "CYB400",
+          "title": "Security Assessment and Auditing",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT2ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkoD-z9dxg"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "ISC2 International Information Security Certification Consortium",
+      "experience": "Certified Governance Risk and Compliance Exam (CGRC)",
+      "experience_code": "ISCT-0010",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT2ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "CYB400",
+          "title": "Security Assessment and Auditing",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT2ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkoD-z9dxg"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "ISC2 International Information Security Certification Consortium",
+      "experience": "Certified Governance Risk and Compliance Exam (CGRC)",
+      "experience_code": "ISCT-0010",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT2ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "CYB400",
+          "title": "Security Assessment and Auditing",
+          "credits_text": "3"
+        },
+        {
+          "code": "IT2ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkoD-z9dxg"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Cisco",
+      "experience": "Cisco Certified Networking Associate (CCNA)",
+      "experience_code": "CIS-EX 02",
+      "eligibility_timeframe": "Active certification",
+      "match_type": "Exact curriculum course",
+      "matched_codes": [
+        "IT212"
+      ],
+      "equivalents": [
+        {
+          "code": "IT212",
+          "title": "Introduction to Computer Networks",
+          "credits_text": "3"
+        },
+        {
+          "code": "CYB210",
+          "title": "Computer Networking",
+          "credits_text": "3"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rJPguLCNw"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Google",
+      "experience": "Cloud Computing Foundations Certificate",
+      "experience_code": "GOOG-0012",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry3PSRrzxl"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Google",
+      "experience": "Cloud Computing Foundations Certificate",
+      "experience_code": "GOOG-0012",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry3PSRrzxl"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Google",
+      "experience": "Cloud Computing Foundations Certificate",
+      "experience_code": "GOOG-0012",
+      "eligibility_timeframe": null,
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "IT1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "IT1ELE",
+          "title": "Information Technology Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry3PSRrzxl"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Sophia Learning",
+      "experience": "College Readiness",
+      "experience_code": "ACE-CS 000606",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "GEN1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "GEN1ELE",
+          "title": "General Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H15z7rH5w"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Sophia Learning",
+      "experience": "College Readiness",
+      "experience_code": "ACE-CS 000606",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "GEN1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "GEN1ELE",
+          "title": "General Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H15z7rH5w"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Sophia Learning",
+      "experience": "College Readiness",
+      "experience_code": "ACE-CS 000606",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "GEN1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "GEN1ELE",
+          "title": "General Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H15z7rH5w"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Communication 120: Presentation Skills in the Workplace",
+      "experience_code": "NCC-CS 037",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "ENG1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "ENG1ELE",
+          "title": "English Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry71fBR5_"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Communication 120: Presentation Skills in the Workplace",
+      "experience_code": "NCC-CS 037",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "ENG1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "ENG1ELE",
+          "title": "English Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry71fBR5_"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Communication 120: Presentation Skills in the Workplace",
+      "experience_code": "NCC-CS 037",
+      "eligibility_timeframe": "Ongoing",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "ENG1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "ENG1ELE",
+          "title": "English Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry71fBR5_"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "Study.com",
+      "experience": "Communications 102: Interpersonal Communication",
+      "experience_code": "SDCM-0122",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "COM1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "COM1ELE",
+          "title": "Communication Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/S1aS4hrf2"
+    },
+    {
+      "program": "MS_CYBERSECURITY",
+      "vendor": "Study.com",
+      "experience": "Communications 102: Interpersonal Communication",
+      "experience_code": "SDCM-0122",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "COM1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "COM1ELE",
+          "title": "Communication Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/S1aS4hrf2"
+    },
+    {
+      "program": "MS_IT",
+      "vendor": "Study.com",
+      "experience": "Communications 102: Interpersonal Communication",
+      "experience_code": "SDCM-0122",
+      "eligibility_timeframe": "",
+      "match_type": "Elective bucket",
+      "matched_codes": [
+        "COM1ELE"
+      ],
+      "equivalents": [
+        {
+          "code": "COM1ELE",
+          "title": "Communication Elective",
+          "credits_text": "0 - 15"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/S1aS4hrf2"
+    },
+    {
+      "program": "BA_IT",
+      "vendor": "CompTIA",
+      "experience": "CompTIA A+",
+      "experience_code": "COM-CT 01",
+      "eligibility_timeframe": "Active certification",
+      "match_type": "Exact curriculum course",
+      "matched_codes": [
+        "IT202"
+      ],
+      "equivalents": [
+        {
+          "code": "IT202",
+          "title": "Computer Operating Systems",
+          "credits_text": "3"
+        }
+      ],
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SyL3w_jrP"
+    }
+  ]
+}

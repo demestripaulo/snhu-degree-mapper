@@ -1,0 +1,417 @@
+{
+  "items": [
+    {
+      "pid": "BJjHXqREbl",
+      "title": "AWS Certified AI Practitioner",
+      "experience_code": "PLA-CT 00390",
+      "vendor": "Amazon Web Services (AWS)",
+      "category": "Exam",
+      "eligibility_timeframe": "",
+      "total_credits_awarded": 3,
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJjHXqREbl",
+      "awards": [
+        {
+          "credits_awarded": 3,
+          "snhu_code": "IT1ELE",
+          "snhu_course": "Information Technology Elective",
+          "catalog_credit_text": "0 - 15"
+        }
+      ]
+    },
+    {
+      "pid": "rk43YdsBv",
+      "title": "CompTIA Security+",
+      "experience_code": "COM-CT 04",
+      "vendor": "CompTIA",
+      "category": "Certificate",
+      "eligibility_timeframe": "Active certification",
+      "total_credits_awarded": 3,
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rk43YdsBv",
+      "awards": [
+        {
+          "credits_awarded": 3,
+          "snhu_code": "CYB220",
+          "snhu_course": "Network Security",
+          "catalog_credit_text": "3"
+        }
+      ]
+    },
+    {
+      "pid": "SkIwhDlRT",
+      "title": "Google Cybersecurity Professional Certificate",
+      "experience_code": "GOOG-0007",
+      "vendor": "Google",
+      "category": "External Course",
+      "eligibility_timeframe": "",
+      "total_credits_awarded": 9,
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkIwhDlRT",
+      "awards": [
+        {
+          "credits_awarded": 3,
+          "snhu_code": "IT200",
+          "snhu_course": "Fundamentals of Information Technology",
+          "catalog_credit_text": "3"
+        },
+        {
+          "credits_awarded": 6,
+          "snhu_code": "IT2ELE",
+          "snhu_course": "Information Technology Elective",
+          "catalog_credit_text": "0 - 15"
+        }
+      ]
+    },
+    {
+      "pid": "Hk-HpfD2c",
+      "title": "Google Project Management Professional Certificate",
+      "experience_code": "GOOG-0003",
+      "vendor": "Google",
+      "category": "Certificate",
+      "eligibility_timeframe": "",
+      "total_credits_awarded": 12,
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Hk-HpfD2c",
+      "awards": [
+        {
+          "credits_awarded": 3,
+          "snhu_code": "QSO340",
+          "snhu_course": "Project Management",
+          "catalog_credit_text": "3"
+        },
+        {
+          "credits_awarded": 3,
+          "snhu_code": "QSO355",
+          "snhu_course": "Resource Estimating and Scheduling",
+          "catalog_credit_text": "3"
+        },
+        {
+          "credits_awarded": 3,
+          "snhu_code": "QSO420",
+          "snhu_course": "Integrated Cost and Schedule Control",
+          "catalog_credit_text": "3"
+        },
+        {
+          "credits_awarded": 3,
+          "snhu_code": "QSO435",
+          "snhu_course": "Adaptive Project Management",
+          "catalog_credit_text": "3"
+        }
+      ]
+    },
+    {
+      "pid": "r14Eita4s",
+      "title": "IBM Cybersecurity Analyst Professional Certificate",
+      "experience_code": "IBM-0016",
+      "vendor": "International Business Machines (IBM)",
+      "category": "Certificate",
+      "eligibility_timeframe": null,
+      "total_credits_awarded": 15,
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r14Eita4s",
+      "awards": [
+        {
+          "credits_awarded": 3,
+          "snhu_code": "CYB200",
+          "snhu_course": "Cybersecurity Foundations",
+          "catalog_credit_text": "3"
+        },
+        {
+          "credits_awarded": 3,
+          "snhu_code": "CYB1ELE",
+          "snhu_course": "Cybersecurity Elective",
+          "catalog_credit_text": "0 - 15"
+        },
+        {
+          "credits_awarded": 3,
+          "snhu_code": "CYB3ELE",
+          "snhu_course": "Cybersecurity Elective",
+          "catalog_credit_text": "0 - 15"
+        },
+        {
+          "credits_awarded": 6,
+          "snhu_code": "IT1ELE",
+          "snhu_course": "Information Technology Elective",
+          "catalog_credit_text": "0 - 15"
+        }
+      ]
+    },
+    {
+      "pid": "SJRBU_9Gyg",
+      "title": "Certified in Cybersecurity Exam",
+      "experience_code": "ISCT-0011",
+      "vendor": "ISC2 International Information Security Certification Consortium",
+      "category": "Certificate",
+      "eligibility_timeframe": null,
+      "total_credits_awarded": 3,
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SJRBU_9Gyg",
+      "awards": [
+        {
+          "credits_awarded": 3,
+          "snhu_code": "CYB200",
+          "snhu_course": "Cybersecurity Foundations",
+          "catalog_credit_text": "3"
+        }
+      ]
+    },
+    {
+      "pid": "H13qiJIdw",
+      "title": "BUS300: Operations Management",
+      "experience_code": "ACE-CS 000664",
+      "vendor": "Saylor University (Academy)",
+      "category": "External Course",
+      "eligibility_timeframe": null,
+      "total_credits_awarded": 3,
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H13qiJIdw",
+      "awards": [
+        {
+          "credits_awarded": 3,
+          "snhu_code": "QSO300",
+          "snhu_course": "Operations Management",
+          "catalog_credit_text": "3"
+        }
+      ]
+    },
+    {
+      "pid": "ry34Ezgo8",
+      "title": "CS402: Computer Communications and Networks ",
+      "experience_code": "ACE-CS 000647",
+      "vendor": "Saylor University (Academy)",
+      "category": "External Course",
+      "eligibility_timeframe": "5 years",
+      "total_credits_awarded": 3,
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry34Ezgo8",
+      "awards": [
+        {
+          "credits_awarded": 3,
+          "snhu_code": "CS317",
+          "snhu_course": "Computer Networks",
+          "catalog_credit_text": "3"
+        }
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "pid": "BJjHXqREbl",
+      "vendor": "Amazon Web Services (AWS)",
+      "certification_or_course": "AWS Certified AI Practitioner",
+      "experience_code": "PLA-CT 00390",
+      "eligibility_timeframe": "",
+      "credits_awarded": 3,
+      "snhu_code": "IT1ELE",
+      "snhu_course": "Information Technology Elective",
+      "catalog_credit_text": "0 - 15",
+      "selected_program_fit": "BA_IT elective candidate",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/BJjHXqREbl"
+    },
+    {
+      "pid": "rk43YdsBv",
+      "vendor": "CompTIA",
+      "certification_or_course": "CompTIA Security+",
+      "experience_code": "COM-CT 04",
+      "eligibility_timeframe": "Active certification",
+      "credits_awarded": 3,
+      "snhu_code": "CYB220",
+      "snhu_course": "Network Security",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "General/elective only or not in selected BA IT curriculum",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/rk43YdsBv"
+    },
+    {
+      "pid": "SkIwhDlRT",
+      "vendor": "Google",
+      "certification_or_course": "Google Cybersecurity Professional Certificate",
+      "experience_code": "GOOG-0007",
+      "eligibility_timeframe": "",
+      "credits_awarded": 3,
+      "snhu_code": "IT200",
+      "snhu_course": "Fundamentals of Information Technology",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "BA_IT direct/elective candidate",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkIwhDlRT"
+    },
+    {
+      "pid": "SkIwhDlRT",
+      "vendor": "Google",
+      "certification_or_course": "Google Cybersecurity Professional Certificate",
+      "experience_code": "GOOG-0007",
+      "eligibility_timeframe": "",
+      "credits_awarded": 6,
+      "snhu_code": "IT2ELE",
+      "snhu_course": "Information Technology Elective",
+      "catalog_credit_text": "0 - 15",
+      "selected_program_fit": "BA_IT elective candidate",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SkIwhDlRT"
+    },
+    {
+      "pid": "Hk-HpfD2c",
+      "vendor": "Google",
+      "certification_or_course": "Google Project Management Professional Certificate",
+      "experience_code": "GOOG-0003",
+      "eligibility_timeframe": "",
+      "credits_awarded": 3,
+      "snhu_code": "QSO340",
+      "snhu_course": "Project Management",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "BA_IT direct/elective candidate",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Hk-HpfD2c"
+    },
+    {
+      "pid": "Hk-HpfD2c",
+      "vendor": "Google",
+      "certification_or_course": "Google Project Management Professional Certificate",
+      "experience_code": "GOOG-0003",
+      "eligibility_timeframe": "",
+      "credits_awarded": 3,
+      "snhu_code": "QSO355",
+      "snhu_course": "Resource Estimating and Scheduling",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "General/elective only or not in selected BA IT curriculum",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Hk-HpfD2c"
+    },
+    {
+      "pid": "Hk-HpfD2c",
+      "vendor": "Google",
+      "certification_or_course": "Google Project Management Professional Certificate",
+      "experience_code": "GOOG-0003",
+      "eligibility_timeframe": "",
+      "credits_awarded": 3,
+      "snhu_code": "QSO420",
+      "snhu_course": "Integrated Cost and Schedule Control",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "General/elective only or not in selected BA IT curriculum",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Hk-HpfD2c"
+    },
+    {
+      "pid": "Hk-HpfD2c",
+      "vendor": "Google",
+      "certification_or_course": "Google Project Management Professional Certificate",
+      "experience_code": "GOOG-0003",
+      "eligibility_timeframe": "",
+      "credits_awarded": 3,
+      "snhu_code": "QSO435",
+      "snhu_course": "Adaptive Project Management",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "General/elective only or not in selected BA IT curriculum",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/Hk-HpfD2c"
+    },
+    {
+      "pid": "r14Eita4s",
+      "vendor": "International Business Machines (IBM)",
+      "certification_or_course": "IBM Cybersecurity Analyst Professional Certificate",
+      "experience_code": "IBM-0016",
+      "eligibility_timeframe": null,
+      "credits_awarded": 3,
+      "snhu_code": "CYB200",
+      "snhu_course": "Cybersecurity Foundations",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "General/elective only or not in selected BA IT curriculum",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r14Eita4s"
+    },
+    {
+      "pid": "r14Eita4s",
+      "vendor": "International Business Machines (IBM)",
+      "certification_or_course": "IBM Cybersecurity Analyst Professional Certificate",
+      "experience_code": "IBM-0016",
+      "eligibility_timeframe": null,
+      "credits_awarded": 3,
+      "snhu_code": "CYB1ELE",
+      "snhu_course": "Cybersecurity Elective",
+      "catalog_credit_text": "0 - 15",
+      "selected_program_fit": "BA_IT elective candidate",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r14Eita4s"
+    },
+    {
+      "pid": "r14Eita4s",
+      "vendor": "International Business Machines (IBM)",
+      "certification_or_course": "IBM Cybersecurity Analyst Professional Certificate",
+      "experience_code": "IBM-0016",
+      "eligibility_timeframe": null,
+      "credits_awarded": 3,
+      "snhu_code": "CYB3ELE",
+      "snhu_course": "Cybersecurity Elective",
+      "catalog_credit_text": "0 - 15",
+      "selected_program_fit": "BA_IT elective candidate",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r14Eita4s"
+    },
+    {
+      "pid": "r14Eita4s",
+      "vendor": "International Business Machines (IBM)",
+      "certification_or_course": "IBM Cybersecurity Analyst Professional Certificate",
+      "experience_code": "IBM-0016",
+      "eligibility_timeframe": null,
+      "credits_awarded": 6,
+      "snhu_code": "IT1ELE",
+      "snhu_course": "Information Technology Elective",
+      "catalog_credit_text": "0 - 15",
+      "selected_program_fit": "BA_IT elective candidate",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/r14Eita4s"
+    },
+    {
+      "pid": "SJRBU_9Gyg",
+      "vendor": "ISC2 International Information Security Certification Consortium",
+      "certification_or_course": "Certified in Cybersecurity Exam",
+      "experience_code": "ISCT-0011",
+      "eligibility_timeframe": null,
+      "credits_awarded": 3,
+      "snhu_code": "CYB200",
+      "snhu_course": "Cybersecurity Foundations",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "General/elective only or not in selected BA IT curriculum",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/SJRBU_9Gyg"
+    },
+    {
+      "pid": "H13qiJIdw",
+      "vendor": "Saylor University (Academy)",
+      "certification_or_course": "BUS300: Operations Management",
+      "experience_code": "ACE-CS 000664",
+      "eligibility_timeframe": null,
+      "credits_awarded": 3,
+      "snhu_code": "QSO300",
+      "snhu_course": "Operations Management",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "General/elective only or not in selected BA IT curriculum",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/H13qiJIdw"
+    },
+    {
+      "pid": "ry34Ezgo8",
+      "vendor": "Saylor University (Academy)",
+      "certification_or_course": "CS402: Computer Communications and Networks ",
+      "experience_code": "ACE-CS 000647",
+      "eligibility_timeframe": "5 years",
+      "credits_awarded": 3,
+      "snhu_code": "CS317",
+      "snhu_course": "Computer Networks",
+      "catalog_credit_text": "3",
+      "selected_program_fit": "General/elective only or not in selected BA IT curriculum",
+      "decision": "Decide Later",
+      "course_status": "Not Started",
+      "url": "https://www.snhu.edu/admission/transferring-credits/work-life-experience#/experiences/ry34Ezgo8"
+    }
+  ]
+}
