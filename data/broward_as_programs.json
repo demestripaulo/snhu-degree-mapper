@@ -1,0 +1,103 @@
+{
+  "as_programs": [
+    {
+      "key": "NST_CYBERSECURITY",
+      "name": "Network Systems Technology — Network Security/Cybersecurity",
+      "code": "2503B",
+      "degree": "Associate of Science",
+      "total_credits": 60,
+      "entrance_req": "HS Diploma or GED",
+      "format": "Fully online available",
+      "pathway_to_bas": true,
+      "paulo_fit_score": 10,
+      "paulo_fit_notes": "Exceptional fit. Paulo's CCNA covers 3 courses (CCNA1+2+3 = 12 cr), Security+ covers CTS2120C, A+ covers CTS1133C, Google PM covers CIS1513C. Up to 48 of 60 credits coverable via CPL/cert/Sophia/CLEP without taking courses.",
+      "courses": [
+        {"code": "ENC1101",   "title": "Composition I",                   "credits": 3, "type": "GE",   "cpl_path": "Sophia Learning — English Composition I",            "cpl_ready": true,  "cert_needed": null},
+        {"code": "CGS1060C",  "title": "Computer and Internet Literacy",  "credits": 3, "type": "CTE",  "cpl_path": "Test-out, CPL portfolio, or pass CGS1060C",          "cpl_ready": true,  "cert_needed": null, "note": "Digital Literacy req — Paulo can test out immediately"},
+        {"code": "GE_SPEECH", "title": "GE Speech",                       "credits": 3, "type": "GE",   "cpl_path": "Sophia Learning — Public Speaking",                  "cpl_ready": true,  "cert_needed": null},
+        {"code": "CTS1133C",  "title": "A+ Comprehensive",                "credits": 4, "type": "CTE",  "cpl_path": "CompTIA A+ cert CPL",                               "cpl_ready": true,  "cert_needed": "CompTIA A+ (verify 3-yr window)"},
+        {"code": "CTS1134C",  "title": "Network+",                        "credits": 4, "type": "CTE",  "cpl_path": "CCNA supersedes Network+ — advisor may map via CPL", "cpl_ready": true,  "cert_needed": "CCNA (covers Network+ content)"},
+        {"code": "GE_MATH",   "title": "GE Mathematics Core",             "credits": 3, "type": "GE",   "cpl_path": "Sophia — Statistics (STA2023) or CLEP College Math",  "cpl_ready": true,  "cert_needed": null},
+        {"code": "CIS1513C",  "title": "Project Management",              "credits": 4, "type": "CTE",  "cpl_path": "Google PM + PMI Fast-track CPL",                     "cpl_ready": true,  "cert_needed": "Google PM Certificate (active)"},
+        {"code": "CTS2120C",  "title": "Security+",                       "credits": 4, "type": "CTE",  "cpl_path": "CompTIA Security+ CPL",                             "cpl_ready": true,  "cert_needed": "Security+ (in progress — Jul/2026)"},
+        {"code": "CTS1661C",  "title": "CISCO CCNA1",                     "credits": 4, "type": "CTE",  "cpl_path": "CCNA cert CPL (covers CCNA1+2+3)",                   "cpl_ready": true,  "cert_needed": "CCNA (renew if expired)"},
+        {"code": "GE_HUM",    "title": "GE Humanities Core",              "credits": 3, "type": "GE",   "cpl_path": "Sophia — Philosophy (PHI2010)",                      "cpl_ready": true,  "cert_needed": null},
+        {"code": "CNT2111C",  "title": "CISCO CCNA2",                     "credits": 4, "type": "CTE",  "cpl_path": "CCNA cert CPL (covers CCNA1+2+3)",                   "cpl_ready": true,  "cert_needed": "CCNA (renew if expired)"},
+        {"code": "CNT2112C",  "title": "CISCO CCNA3",                     "credits": 4, "type": "CTE",  "cpl_path": "CCNA cert CPL (covers CCNA1+2+3)",                   "cpl_ready": true,  "cert_needed": "CCNA (renew if expired)"},
+        {"code": "CTS2126C",  "title": "PenTest+",                        "credits": 4, "type": "CTE",  "cpl_path": "CompTIA PenTest+ cert CPL",                          "cpl_ready": false, "cert_needed": "CompTIA PenTest+ (future cert — pipeline)"},
+        {"code": "GE_SCI",    "title": "GE Natural Science Core",         "credits": 3, "type": "GE",   "cpl_path": "Sophia — Biology (BSC1005)",                         "cpl_ready": true,  "cert_needed": null},
+        {"code": "CET2688C",  "title": "System Security Practitioner (SSCP)", "credits": 4, "type": "CTE",  "cpl_path": "ISC2 SSCP cert CPL",                           "cpl_ready": false, "cert_needed": "ISC2 SSCP (future cert — pipeline)"},
+        {"code": "AMH_POS",   "title": "History/Government (choice)",     "credits": 3, "type": "GE",   "cpl_path": "CLEP American Government ($93) — also satisfies Civic Literacy", "cpl_ready": true, "cert_needed": null},
+        {"code": "ELECTIVE",  "title": "Math/Internship/IT Elective",     "credits": 3, "type": "ELE",  "cpl_path": "Any CET/CIS/COP/CTS/CGS/ISM course or internship",  "cpl_ready": true,  "cert_needed": null}
+      ],
+      "cpl_summary": {
+        "ready_now": 13,
+        "ready_with_pipeline_certs": 15,
+        "must_take_at_broward": 2,
+        "credits_coverable_now": 49,
+        "credits_coverable_with_pipeline": 57,
+        "credits_must_take": 3,
+        "notes": "Only PenTest+ (4 cr) and SSCP (4 cr) require future certs — both already in Paulo's pipeline. Network+ slot mapped via CCNA (more advanced cert). CTS1133C requires A+ within 3-yr window — verify expiry."
+      },
+      "estacio_contributions": [
+        {"estacio_code": "CCT0754", "estacio_name": "Computer Networks",         "maps_to": "CTS1661C/CNT2111C", "mechanism": "WES + CCNA CPL combined"},
+        {"estacio_code": "CCT0762", "estacio_name": "Project Management for IT", "maps_to": "CIS1513C",          "mechanism": "Google PM CPL + WES supporting evidence"},
+        {"estacio_code": "CCT0761", "estacio_name": "Information Security Mgmt", "maps_to": "CTS2120C",          "mechanism": "Security+ CPL + WES supporting evidence"}
+      ]
+    },
+    {
+      "key": "CIT_IT",
+      "name": "Computer Information Technology — Information Technology",
+      "code": "2149B",
+      "degree": "Associate of Science",
+      "total_credits": 60,
+      "entrance_req": "HS Diploma or GED",
+      "format": "All BC locations — some courses may vary by campus",
+      "pathway_to_bas": true,
+      "paulo_fit_score": 7,
+      "paulo_fit_notes": "Good but broader fit. Requires Tech+, Linux+, Cloud+, and M365 certs that Paulo doesn't currently hold. Database and programming courses can be covered via Estácio WES or PLA. More new certifications needed compared to NST track.",
+      "courses": [
+        {"code": "CGS1060C",  "title": "Computer and Internet Literacy",        "credits": 3, "type": "CTE", "cpl_path": "Test-out or CPL portfolio",                          "cpl_ready": true,  "cert_needed": null},
+        {"code": "ENC1101",   "title": "Composition I",                         "credits": 3, "type": "GE",  "cpl_path": "Sophia Learning — English Composition I",            "cpl_ready": true,  "cert_needed": null},
+        {"code": "CTS1140C",  "title": "Tech+",                                 "credits": 4, "type": "CTE", "cpl_path": "CompTIA Tech+ cert CPL or PLA with A+/MCSA history", "cpl_ready": false, "cert_needed": "CompTIA Tech+ (formerly ITF+) — $124 exam, or PLA"},
+        {"code": "CTS1134C",  "title": "Network+",                              "credits": 4, "type": "CTE", "cpl_path": "CCNA supersedes — advisor may map",                  "cpl_ready": true,  "cert_needed": "CCNA (maps via advisor approval)"},
+        {"code": "COP1700C",  "title": "Introduction to Database and MySQL",    "credits": 3, "type": "CTE", "cpl_path": "Estácio CCT0782 Database (WES) + PLA",              "cpl_ready": true,  "cert_needed": null, "note": "Estácio Database course strong match — WES or PLA"},
+        {"code": "CIS1513C",  "title": "Project Management",                    "credits": 4, "type": "CTE", "cpl_path": "Google PM + PMI Fast-track CPL",                     "cpl_ready": true,  "cert_needed": "Google PM (active)"},
+        {"code": "COP1000C",  "title": "Introduction to Computer Programming",  "credits": 3, "type": "CTE", "cpl_path": "Estácio CCT0749 Algorithms (WES/PLA)",              "cpl_ready": true,  "cert_needed": null, "note": "Partial match — algorithms/programming foundations"},
+        {"code": "GE_SPEECH", "title": "GE Speech",                             "credits": 3, "type": "GE",  "cpl_path": "Sophia Learning — Public Speaking",                  "cpl_ready": true,  "cert_needed": null},
+        {"code": "CTS1111C",  "title": "Linux+",                                "credits": 4, "type": "CTE", "cpl_path": "CompTIA Linux+ cert CPL",                            "cpl_ready": false, "cert_needed": "CompTIA Linux+ (~$246) — not in current pipeline"},
+        {"code": "GE_MATH",   "title": "GE Mathematics Core",                   "credits": 3, "type": "GE",  "cpl_path": "Sophia Statistics or CLEP College Math",             "cpl_ready": true,  "cert_needed": null},
+        {"code": "CTS2375C",  "title": "Cloud+",                                "credits": 3, "type": "CTE", "cpl_path": "CompTIA Cloud+ or AZ-104 Azure Admin (similar scope)", "cpl_ready": false, "cert_needed": "CompTIA Cloud+ (~$246) or AZ-104 (~$165) — not yet"},
+        {"code": "CTS2120C",  "title": "Security+",                             "credits": 4, "type": "CTE", "cpl_path": "CompTIA Security+ CPL",                             "cpl_ready": true,  "cert_needed": "Security+ in progress — Jul/2026"},
+        {"code": "CTS2376C",  "title": "Microsoft 365 Administrator",           "credits": 3, "type": "CTE", "cpl_path": "PLA using MCSA/MCTS history + M365 experience",      "cpl_ready": false, "cert_needed": "MCSA retired → PLA portfolio ($30/cr) or MS-102 cert"},
+        {"code": "CTS2126C",  "title": "PenTest+",                              "credits": 4, "type": "CTE", "cpl_path": "CompTIA PenTest+ CPL",                               "cpl_ready": false, "cert_needed": "CompTIA PenTest+ (future pipeline)"},
+        {"code": "GE_SCI",    "title": "GE Natural Science Core",               "credits": 3, "type": "GE",  "cpl_path": "Sophia — Biology (BSC1005)",                         "cpl_ready": true,  "cert_needed": null},
+        {"code": "AMH_POS",   "title": "History/Government (choice)",           "credits": 3, "type": "GE",  "cpl_path": "CLEP American Government ($93)",                     "cpl_ready": true,  "cert_needed": null},
+        {"code": "ELECTIVE",  "title": "Math/Internship/IT Elective",           "credits": 3, "type": "ELE", "cpl_path": "Any CTS/COP/CIS/CET/ISM or GEB/OST course",         "cpl_ready": true,  "cert_needed": null},
+        {"code": "GE_HUM",    "title": "GE Humanities Core",                    "credits": 3, "type": "GE",  "cpl_path": "Sophia — Philosophy (PHI2010)",                      "cpl_ready": true,  "cert_needed": null}
+      ],
+      "cpl_summary": {
+        "ready_now": 11,
+        "ready_with_pipeline_certs": 13,
+        "must_take_at_broward": 4,
+        "credits_coverable_now": 41,
+        "credits_coverable_with_pipeline": 48,
+        "credits_must_take": 12,
+        "notes": "Gaps: Tech+ (4 cr — easy cert or PLA), Linux+ (4 cr — not in current pipeline), Cloud+ (3 cr — AZ-104 alternative), M365 Admin (3 cr — PLA with MCSA history). Add these 4 certs to pipeline to maximize CPL."
+      },
+      "estacio_contributions": [
+        {"estacio_code": "CCT0782", "estacio_name": "Database",                  "maps_to": "COP1700C", "mechanism": "WES transfer or PLA — strong content match"},
+        {"estacio_code": "CCT0749", "estacio_name": "Algorithms",               "maps_to": "COP1000C", "mechanism": "WES transfer or PLA — partial match (programming fundamentals)"},
+        {"estacio_code": "CCT0762", "estacio_name": "Project Management for IT", "maps_to": "CIS1513C", "mechanism": "Google PM CPL + WES supporting evidence"},
+        {"estacio_code": "CCT0754", "estacio_name": "Computer Networks",        "maps_to": "CTS1134C",  "mechanism": "CCNA CPL + WES supporting evidence"}
+      ]
+    }
+  ],
+  "pathway_decision": {
+    "recommended": "NST_CYBERSECURITY",
+    "rationale": "NST 2503B is far better aligned with Paulo's existing certifications. CCNA alone covers 12 credits (CCNA1+2+3). Only PenTest+ and SSCP are missing — both already planned in the cert pipeline. CIT 2149B requires Tech+, Linux+, and Cloud+ which are not in Paulo's current stack.",
+    "if_wes_tecnólogo_accepted": "Skip both AS programs entirely — enter BAS T300C directly with Tecnólogo as the 60-credit entry requirement",
+    "if_wes_tecnólogo_rejected": "Enroll in NST 2503B first (AS). With CPL/Sophia/CLEP, complete AS in 1-2 semesters (only 3-7 credits to actually take). Then continue directly into BAS T300C.",
+    "cit_it_use_case": "Choose CIT 2149B if you want a broader IT foundation (database, programming, cloud) before specializing in cybersecurity. Adds AZ-104, Linux+, PenTest+ to cert stack. ~4 months longer than NST path."
+  }
+}

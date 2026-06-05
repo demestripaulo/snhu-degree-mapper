@@ -6,7 +6,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import streamlit as st
 import pandas as pd
-from data_loader import broward_policies, broward_estacio_mapping, institution_cost_comparison
+from data_loader import broward_policies, broward_estacio_mapping, institution_cost_comparison, broward_as_programs
 
 st.set_page_config(page_title="Broward College Path", page_icon="🐆", layout="wide")
 st.title("🐆 Broward College — BAS in IT Cybersecurity")
@@ -258,7 +258,163 @@ with st.expander("❓ Perguntas Abertas — Confirmar com Advisor do Broward"):
     for i, q in enumerate(bp["open_questions"], 1):
         st.markdown(f"{i}. {q}")
 
+
+# ══════════════════════════════════════════════════════════════════════════════
+# AS FALLBACK PATHWAYS
+# ══════════════════════════════════════════════════════════════════════════════
+st.markdown("---")
+st.header("🎓 Plano B: AS de Entrada — Se WES Tecnólogo for Rejeitado")
+
+as_data = broward_as_programs()
+decision = as_data["pathway_decision"]
+
+st.info(
+    f"**Quando usar os AS programs:**\n\n"
+    f"- ✅ Se o WES Tecnólogo for aceito → **pule os AS programs**, entre direto no BAS T300C\n"
+    f"- ⚠️ Se for rejeitado → complete um AS no Broward primeiro (60 cr), depois siga para o BAS\n\n"
+    f"**Recomendação:** {decision['recommended'].replace('_', ' ')} — {decision['rationale']}"
+)
+
+programs = as_data["as_programs"]
+
+# ── Side-by-side AS comparison ────────────────────────────────────────────────
+st.subheader("📊 Comparação dos Dois AS Programs")
+
+tab1, tab2 = st.tabs([
+    "🔐 NST Cybersecurity AS (2503B) — RECOMENDADO",
+    "💻 CIT Information Technology AS (2149B)"
+])
+
+for tab, prog in zip([tab1, tab2], programs):
+    with tab:
+        s = prog["cpl_summary"]
+        fit_color = "🟢" if prog["paulo_fit_score"] >= 9 else "🟡"
+
+        c1, c2, c3, c4, c5 = st.columns(5)
+        c1.metric("Fit Score", f"{fit_color} {prog['paulo_fit_score']}/10")
+        c2.metric("Créditos prontos agora", f"{s['credits_coverable_now']} cr")
+        c3.metric("Prontos com pipeline", f"{s['credits_coverable_with_pipeline']} cr")
+        c4.metric("A cursar no Broward", f"{s['credits_must_take']} cr")
+        c5.metric("Total AS", f"{prog['total_credits']} cr")
+
+        st.caption(f"**Nota:** {prog['paulo_fit_notes']}")
+
+        # ── Course-by-course CPL table ─────────────────────────────────────────
+        st.markdown("#### Análise por Disciplina — CPL / Cert / Sophia / Estácio")
+
+        rows = []
+        for c in prog["courses"]:
+            rows.append({
+                "Código": c["code"],
+                "Disciplina": c["title"],
+                "Cr": c["credits"],
+                "Tipo": c["type"],
+                "Pronto?": "✅ Sim" if c["cpl_ready"] else "⏳ Pipeline",
+                "Como cobrir": c["cpl_path"],
+                "Cert necessária": c.get("cert_needed") or "—",
+                "Observação": c.get("note") or "",
+            })
+
+        df_courses = pd.DataFrame(rows)
+
+        def color_as_course(row):
+            if row["Pronto?"] == "✅ Sim":
+                return ["background-color: #d4edda"] * len(row)
+            elif row["Pronto?"] == "⏳ Pipeline":
+                return ["background-color: #fff3cd"] * len(row)
+            return ["background-color: #f8d7da"] * len(row)
+
+        st.dataframe(
+            df_courses.style.apply(color_as_course, axis=1),
+            use_container_width=True, hide_index=True
+        )
+
+        st.caption(
+            f"🟢 Pronto agora (CPL/Sophia/CLEP/WES)  |  "
+            f"🟡 Precisa de cert futura (pipeline)  |  "
+            f"Notas: {s['notes']}"
+        )
+
+        # ── Estácio contributions ──────────────────────────────────────────────
+        if prog["estacio_contributions"]:
+            st.markdown("#### 🇧🇷 Contribuição do Diploma Estácio")
+            df_est = pd.DataFrame([{
+                "Código Estácio": e["estacio_code"],
+                "Disciplina Estácio": e["estacio_name"],
+                "Mapeia para": e["maps_to"],
+                "Mecanismo": e["mechanism"],
+            } for e in prog["estacio_contributions"]])
+            st.dataframe(
+                df_est.style.apply(lambda r: ["background-color: #cce5ff"] * len(r), axis=1),
+                use_container_width=True, hide_index=True
+            )
+
+# ── AS CPL Summary comparison ─────────────────────────────────────────────────
+st.markdown("---")
+st.subheader("📈 Resumo Comparativo — Cobertura CPL por AS Program")
+
+nst = next(p for p in programs if p["key"] == "NST_CYBERSECURITY")
+cit = next(p for p in programs if p["key"] == "CIT_IT")
+
+compare_rows = [
+    {"Métrica": "Fit Score Paulo",               "NST Cybersecurity 2503B": f"{nst['paulo_fit_score']}/10 🟢", "CIT IT 2149B": f"{cit['paulo_fit_score']}/10 🟡"},
+    {"Métrica": "Créditos cobertos agora",        "NST Cybersecurity 2503B": f"{nst['cpl_summary']['credits_coverable_now']} / 60 cr", "CIT IT 2149B": f"{cit['cpl_summary']['credits_coverable_now']} / 60 cr"},
+    {"Métrica": "Créditos cobertos c/ pipeline",  "NST Cybersecurity 2503B": f"{nst['cpl_summary']['credits_coverable_with_pipeline']} / 60 cr", "CIT IT 2149B": f"{cit['cpl_summary']['credits_coverable_with_pipeline']} / 60 cr"},
+    {"Métrica": "Créditos a cursar no Broward",  "NST Cybersecurity 2503B": f"{nst['cpl_summary']['credits_must_take']} cr ✅", "CIT IT 2149B": f"{cit['cpl_summary']['credits_must_take']} cr ⚠️"},
+    {"Métrica": "Certs faltando",                 "NST Cybersecurity 2503B": "PenTest+, SSCP (ambas no pipeline)", "CIT IT 2149B": "Tech+, Linux+, Cloud+, PenTest+ (4 novas)"},
+    {"Métrica": "Contribuição Estácio",           "NST Cybersecurity 2503B": "3 cursos mapeados (Networks, PM, Security)", "CIT IT 2149B": "4 cursos mapeados (Database, Algorithms, Networks, PM)"},
+    {"Métrica": "Tempo estimado para completar",  "NST Cybersecurity 2503B": "1 semestre (só 3 cr a cursar*)", "CIT IT 2149B": "2-3 semestres (12 cr + novas certs)"},
+    {"Métrica": "Leva direto ao BAS Cybersecurity?","NST Cybersecurity 2503B": "✅ Sim — mesmas disciplinas CCNA", "CIT IT 2149B": "✅ Sim — mas exige mais transição"},
+]
+
+df_compare = pd.DataFrame(compare_rows)
+
+def color_compare(row):
+    return [""] + ["background-color: #d4edda"] + ["background-color: #fff3cd"]
+
+st.dataframe(df_compare, use_container_width=True, hide_index=True)
+st.caption("* NST 2503B: com CCNA + Security+ + A+ + Google PM + Sophia + CLEP, restam apenas ~3 créditos de elective a cursar formalmente no Broward")
+
+# ── Decision flowchart ────────────────────────────────────────────────────────
+st.markdown("---")
+st.subheader("🔀 Árvore de Decisão — Qual Caminho Seguir")
+
+st.markdown("""
+```
+Submeter WES (Tecnólogo Estácio de Sá)
+│
+├─ ✅ WES aceito como AS equivalent
+│   └─ Entrar DIRETO no BAS T300C AS
+│       └─ CPL com certs → concluir BAS em ~4 semestres
+│
+└─ ❌ WES rejeitado
+    ├─ Opção A (RECOMENDADA): NST Cybersecurity AS 2503B
+    │   ├─ CCNA cobre CCNA1 + CCNA2 + CCNA3 (12 cr)
+    │   ├─ Security+ cobre CTS2120C (4 cr)
+    │   ├─ A+ cobre CTS1133C (4 cr)
+    │   ├─ Google PM cobre CIS1513C (4 cr)
+    │   ├─ Sophia cobre 4 GE slots (12 cr)
+    │   ├─ CLEP cobre History/Gov (3 cr)
+    │   ├─ CGS1060C: test-out (3 cr)
+    │   └─ Só ~3 cr de elective a cursar → AS em 1 semestre
+    │       └─ Continuar para BAS T300C AS
+    │
+    └─ Opção B: CIT IT AS 2149B
+        ├─ Mais amplo (database, programação, cloud)
+        ├─ Requer 4 novas certs (Tech+, Linux+, Cloud+, PenTest+)
+        └─ ~2-3 semestres para completar
+            └─ Continuar para BAS T300C AS
+```
+""")
+
+# ── Open questions ────────────────────────────────────────────────────────────
+st.markdown("---")
+with st.expander("❓ Perguntas Abertas — Confirmar com Advisor do Broward"):
+    for i, q in enumerate(bp["open_questions"], 1):
+        st.markdown(f"{i}. {q}")
+
 st.caption(
-    "Dados baseados no documento de estratégia gerado em Jun/2026. "
+    "Dados baseados nos PDFs oficiais dos programas Broward College (Jun/2026). "
+    "NST Cybersecurity: 2503B | CIT IT: 2149B | BAS: T300C AS | "
     "Verificar valores atuais em broward.edu | Contato advisor: broward.edu/cpl"
 )

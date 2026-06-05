@@ -65,6 +65,10 @@ def broward_estacio_mapping() -> dict:
     return load_json(DATA / "broward_estacio_mapping.json")
 
 
+def broward_as_programs() -> dict:
+    return load_json(DATA / "broward_as_programs.json")
+
+
 def institution_cost_comparison() -> dict:
     """Side-by-side cost comparison: SNHU vs Broward for Paulo's profile."""
     cs = credit_summary()
