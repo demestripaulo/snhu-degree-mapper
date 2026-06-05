@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "source": "Sophia Learning official SNHU transfer guide + SNHU BA in IT catalog",
+    "snhu_program": "BA in Information Technologies (BA.ITE)",
+    "sophia_subscription_usd_per_month": 99,
+    "note": "Sophia is an official SNHU transfer partner. Courses transfer as specific SNHU equivalents. Select 'SNHU' as destination institution when enrolling."
+  },
+  "courses": [
+    {
+      "sophia_course": "English Composition I",
+      "sophia_id": "ENG1001",
+      "snhu_code": "ENG122",
+      "snhu_title": "English Composition",
+      "area": "General Education — Communications",
+      "credits": 3,
+      "est_weeks": 3,
+      "cost_usd": 99,
+      "category": "gen_ed",
+      "ba_it_required": true,
+      "priority": 1,
+      "notes": "Prerequisite for many SNHU courses. Complete first."
+    },
+    {
+      "sophia_course": "English Composition II",
+      "sophia_id": "ENG1002",
+      "snhu_code": "ENG123",
+      "snhu_title": "English Composition II",
+      "area": "General Education — Communications",
+      "credits": 3,
+      "est_weeks": 3,
+      "cost_usd": 99,
+      "category": "gen_ed",
+      "ba_it_required": true,
+      "priority": 2,
+      "notes": "Required gen-ed; complete after ENG122."
+    },
+    {
+      "sophia_course": "Introduction to Statistics",
+      "sophia_id": "MAT1001",
+      "snhu_code": "MAT240",
+      "snhu_title": "Applied Statistics",
+      "area": "General Education — Quantitative Reasoning",
+      "credits": 3,
+      "est_weeks": 4,
+      "cost_usd": 99,
+      "category": "gen_ed",
+      "ba_it_required": true,
+      "priority": 3,
+      "notes": "Satisfies quantitative reasoning requirement."
+    },
+    {
+      "sophia_course": "Project Management",
+      "sophia_id": "BUS1005",
+      "snhu_code": "QSO340",
+      "snhu_title": "Project Management",
+      "area": "BA IT Major Core",
+      "credits": 3,
+      "est_weeks": 3,
+      "cost_usd": 99,
+      "category": "major_core",
+      "ba_it_required": true,
+      "priority": 4,
+      "notes": "HIGH VALUE — maps to a required BA IT major course, not just gen-ed. Eliminates QSO340 from the major."
+    },
+    {
+      "sophia_course": "Introduction to Philosophy",
+      "sophia_id": "HUM1001",
+      "snhu_code": "PHI area",
+      "snhu_title": "Arts & Humanities Elective",
+      "area": "General Education — Arts & Humanities",
+      "credits": 3,
+      "est_weeks": 2,
+      "cost_usd": 99,
+      "category": "gen_ed",
+      "ba_it_required": true,
+      "priority": 5,
+      "notes": "Satisfies one arts/humanities gen-ed requirement."
+    },
+    {
+      "sophia_course": "Macroeconomics",
+      "sophia_id": "ECO1001",
+      "snhu_code": "ECO201",
+      "snhu_title": "Macroeconomics",
+      "area": "General Education — Social/Behavioral Sciences",
+      "credits": 3,
+      "est_weeks": 3,
+      "cost_usd": 99,
+      "category": "gen_ed",
+      "ba_it_required": true,
+      "priority": 6,
+      "notes": "Satisfies social/behavioral science gen-ed."
+    },
+    {
+      "sophia_course": "Microeconomics",
+      "sophia_id": "ECO1002",
+      "snhu_code": "ECO202",
+      "snhu_title": "Microeconomics",
+      "area": "General Education — Social/Behavioral Sciences",
+      "credits": 3,
+      "est_weeks": 3,
+      "cost_usd": 99,
+      "category": "gen_ed",
+      "ba_it_required": true,
+      "priority": 7,
+      "notes": "Satisfies a second social/behavioral science gen-ed or free elective."
+    },
+    {
+      "sophia_course": "Introduction to Psychology",
+      "sophia_id": "PSY1001",
+      "snhu_code": "PSY101",
+      "snhu_title": "Introduction to Psychology",
+      "area": "General Education — Social/Behavioral Sciences",
+      "credits": 3,
+      "est_weeks": 3,
+      "cost_usd": 99,
+      "category": "gen_ed",
+      "ba_it_required": false,
+      "priority": 8,
+      "notes": "Optional gen-ed or free elective. Lower priority if macro/micro already cover the social science requirement."
+    },
+    {
+      "sophia_course": "Business Communication",
+      "sophia_id": "BUS1001",
+      "snhu_code": "COM area",
+      "snhu_title": "Communications Elective",
+      "area": "General Education — Communications",
+      "credits": 3,
+      "est_weeks": 3,
+      "cost_usd": 99,
+      "category": "gen_ed",
+      "ba_it_required": false,
+      "priority": 9,
+      "notes": "May satisfy communications gen-ed or free elective. Confirm with advisor."
+    },
+    {
+      "sophia_course": "US History",
+      "sophia_id": "HIS1001",
+      "snhu_code": "HIS100",
+      "snhu_title": "The Changing Landscape of US History",
+      "area": "General Education — History",
+      "credits": 3,
+      "est_weeks": 3,
+      "cost_usd": 99,
+      "category": "gen_ed",
+      "ba_it_required": false,
+      "priority": 10,
+      "notes": "Satisfies history gen-ed. Lower priority — may be covered by free electives if history is not required."
+    }
+  ],
+  "summary": {
+    "total_courses": 10,
+    "total_credits": 30,
+    "total_cost_usd": 297,
+    "est_months": 3,
+    "major_core_courses_eliminated": 1,
+    "gen_ed_courses": 9,
+    "snhu_tuition_saved_usd": 9900,
+    "high_priority_courses": ["ENG122", "ENG123", "MAT240", "QSO340"]
+  },
+  "clep_alternatives": [
+    {
+      "exam": "CLEP — College Composition",
+      "snhu_code": "ENG122",
+      "credits": 3,
+      "cost_usd": 93,
+      "notes": "Faster than Sophia if content is already known."
+    },
+    {
+      "exam": "CLEP — Principles of Management",
+      "snhu_code": "MGT200 area",
+      "credits": 3,
+      "cost_usd": 93,
+      "notes": "Paulo's management experience makes this a high-confidence pass."
+    },
+    {
+      "exam": "CLEP — Information Systems",
+      "snhu_code": "IT area elective",
+      "credits": 3,
+      "cost_usd": 93,
+      "notes": "Strong IT background — likely high-confidence pass."
+    },
+    {
+      "exam": "DSST — Principles of Supervision",
+      "snhu_code": "MGT area",
+      "credits": 3,
+      "cost_usd": 85,
+      "notes": "Highly relevant given 90+ employee management experience."
+    }
+  ]
+}

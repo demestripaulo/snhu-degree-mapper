@@ -1,0 +1,98 @@
+{
+  "transfer_credit_time_limit": {
+    "official_policy": "SNHU does not publish a blanket time limit for transfer credits from regionally accredited institutions.",
+    "practical_guidance": "Credits are evaluated on course content and grade (C or better). Some technical courses may be flagged as outdated at advisor discretion.",
+    "paulo_assessment": {
+      "degree": "Estácio de Sá — Information Technology Management (Tecnólogo)",
+      "graduation_year": 2018,
+      "years_elapsed": 8,
+      "verdict": "ACCEPTABLE",
+      "rationale": "8-year-old IT management degree is within normal acceptance range. SNHU transfer advisors typically flag recency only for rapidly-evolving subjects like specific programming languages or security tools. IT management and operations fundamentals remain valid. WES evaluation does not expire.",
+      "risk_courses": [
+        "CCT0783 — Delivery and Support in IT (ITIL version may be dated)",
+        "CCT0746 — Software Development Processes (Agile/DevOps specifics may be updated)"
+      ],
+      "low_risk_courses": [
+        "Computer Networks", "Systems Modeling", "Database", "Information Security Management",
+        "Project Management", "Systems Audit", "Business Intelligence", "IT Governance"
+      ]
+    }
+  },
+  "ba_it_to_ms_transfer": {
+    "question": "Do BA in IT credits reduce MS Cybersecurity or MS IT requirements?",
+    "answer": "NO — undergraduate credits do not reduce graduate course requirements.",
+    "detail": "The BA in IT credential satisfies the bachelor's degree admission requirement for the MS programs. The 90 transfer credits used to complete the BA do not carry forward into the MS. SNHU may accept up to 12 graduate transfer credits if the student has prior graduate-level coursework from an accredited institution.",
+    "paulo_graduate_credit_potential": {
+      "source": "PUC Minas — AI & ML Postgraduate Specialization (in progress, 2025-2027)",
+      "note": "Once completed, PUC Minas coursework (WES-evaluated) may qualify for up to 12 graduate transfer credits toward MS Cybersecurity or MS IT. Confirm with SNHU graduate admissions.",
+      "estimated_credits": "6-12 (subject to SNHU review)"
+    }
+  },
+  "ms_cybersecurity": {
+    "program": "MS in Cybersecurity (MS.CSE)",
+    "pid": "4112448tg",
+    "total_credits": 36,
+    "max_transfer_credits": 12,
+    "admission_requirement": "Bachelor's degree from regionally accredited institution",
+    "relevant_certs_for_admission": ["ISC2 CC", "CompTIA Security+", "CCNA"],
+    "courses": [
+      {"code": "IT505",   "title": "Core Technologies",                   "credits": 3},
+      {"code": "ISE510",  "title": "Security Risk Analysis and Planning",  "credits": 3},
+      {"code": "ISE620",  "title": "Incident Detection and Response",      "credits": 3},
+      {"code": "ISE640",  "title": "Investigation and Digital Forensics",  "credits": 3},
+      {"code": "ISE690",  "title": "Cyber Security Capstone",              "credits": 3},
+      {"code": "IT549",   "title": "Foundation in Information Assurance",  "credits": 3},
+      {"code": "IT552",   "title": "Human Factors in Security",            "credits": 3},
+      {"code": "IT640",   "title": "Telecommunications and Networking",    "credits": 3},
+      {"code": "IT643",   "title": "Network Assessment and Defense",       "credits": 3},
+      {"code": "IT659",   "title": "Cyberlaw and Ethics",                  "credits": 3},
+      {"code": "SNHU690", "title": "Internship (optional)",                "credits": 3},
+      {"code": "IT505",   "title": "Core Technologies (concentration)",    "credits": 3}
+    ],
+    "cost_per_credit_usd": 637,
+    "total_cost_usd": 22932,
+    "est_months_full_time": 12,
+    "est_months_part_time": 18,
+    "paulo_fit_score": 9
+  },
+  "ms_it_it_concentration": {
+    "program": "MS in Information Technology — IT Concentration (MS.IT)",
+    "pid": "4kK2V4LYg",
+    "concentration_pid": "V1gvpS4qg",
+    "total_credits": 36,
+    "max_transfer_credits": 12,
+    "admission_requirement": "Bachelor's degree from regionally accredited institution",
+    "courses": [
+      {"code": "IT505",   "title": "Core Technologies",                          "credits": 3},
+      {"code": "IT510",   "title": "Advanced Information Technology",             "credits": 3},
+      {"code": "IT511",   "title": "Object Oriented Application Development",     "credits": 3},
+      {"code": "IT515",   "title": "Innovations in Information Technology",       "credits": 3},
+      {"code": "IT520",   "title": "Technical Communication",                     "credits": 3},
+      {"code": "IT600",   "title": "Operating Systems",                           "credits": 3},
+      {"code": "IT640",   "title": "Telecommunications and Networking",           "credits": 3},
+      {"code": "IT700",   "title": "Capstone in Information Technology",          "credits": 3},
+      {"code": "CIS525",  "title": "Applied Data Structure and Database",         "credits": 3},
+      {"code": "IT650",   "title": "Principles of Database Design",               "credits": 3},
+      {"code": "IT625",   "title": "IT Project and Team Management",              "credits": 3},
+      {"code": "QSO640",  "title": "Project Management",                          "credits": 3}
+    ],
+    "cost_per_credit_usd": 637,
+    "total_cost_usd": 22932,
+    "est_months_full_time": 12,
+    "est_months_part_time": 18,
+    "paulo_fit_score": 7,
+    "comparison_vs_ms_cybersecurity": "MS IT is broader and more technical (OOP, databases, OS). MS Cybersecurity is more strategically aligned with Paulo's cert stack (ISC2, Security+, CCNA) and CISO career track. MS Cybersecurity recommended as primary path."
+  },
+  "wes_evaluation": {
+    "service": "World Education Services (wes.org)",
+    "cost_usd": 185,
+    "processing_days_basic": "7 business days",
+    "processing_days_standard": "20 business days",
+    "what_to_order": "Course-by-Course evaluation",
+    "documents_required": [
+      "Official transcripts from Estácio de Sá (sent directly by institution)",
+      "Certified English translation (already have — SCG Law & Language, 10/05/2021)"
+    ],
+    "note": "The certified English translation from SCG Law & Language (dated 10/05/2021) is already available and valid for WES submission."
+  }
+}
