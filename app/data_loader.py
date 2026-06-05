@@ -48,6 +48,15 @@ def ms_it_curriculum() -> list[dict]:
     return data["programs"]["MS_IT"]["courses"]
 
 
+def bs_it_curriculum() -> list[dict]:
+    pol = policies()
+    return pol["bs_it_cybersecurity"]["core_courses"] + pol["bs_it_cybersecurity"]["cybersecurity_concentration"]
+
+
+def wes_analysis() -> dict:
+    return policies()["wes_vs_gened_analysis"]
+
+
 def sophia_mapping() -> dict:
     return load_json(DATA / "sophia_ba_it_mapping.json")
 

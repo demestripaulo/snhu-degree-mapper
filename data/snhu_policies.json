@@ -83,6 +83,95 @@
     "paulo_fit_score": 7,
     "comparison_vs_ms_cybersecurity": "MS IT is broader and more technical (OOP, databases, OS). MS Cybersecurity is more strategically aligned with Paulo's cert stack (ISC2, Security+, CCNA) and CISO career track. MS Cybersecurity recommended as primary path."
   },
+  "bs_it_cybersecurity": {
+    "program": "BS in Information Technology — Cybersecurity Concentration",
+    "catalog_url": "https://www.snhu.edu/admission/academic-catalogs#/programs/B1fl01trz/SJ7IzAp9xg",
+    "pid": "B1fl01trz",
+    "concentration_pid": "SJ7IzAp9xg",
+    "degree_type": "BS",
+    "total_credits": 120,
+    "max_transfer_credits": 90,
+    "general_education_credits": 42,
+    "major_credits": 66,
+    "free_elective_credits": 12,
+    "cost_per_credit_usd": 330,
+    "total_cost_usd": 39600,
+    "est_months_full_time": 24,
+    "admission_requirement": "High school diploma or equivalent",
+    "note": "Kuali API inaccessible from remote environment — curriculum based on SNHU published BS IT program structure. Verify current courses at snhu.edu.",
+    "vs_ba_it": {
+      "same_total_credits": true,
+      "same_transfer_cap": true,
+      "same_cost_per_credit": true,
+      "key_differences": [
+        "BS has 12 free elective credits vs BA's 21 — LESS flexibility for WES transfer into elective slots",
+        "BS requires a formal concentration (5 courses, 15 cr) replacing free elective space",
+        "BS major requires more STEM/CS-oriented courses; BA major is broader and includes more IT management",
+        "BA in IT better matches Paulo's Estácio degree (IT Management focus) for WES course equivalencies",
+        "Both programs: same SNHU CPL policies, same Sophia acceptance, same admission to MS programs"
+      ]
+    },
+    "core_courses": [
+      {"code": "IT140",  "title": "Introduction to Scripting",              "credits": 3},
+      {"code": "IT200",  "title": "Fundamentals of IT",                      "credits": 3},
+      {"code": "IT201",  "title": "Computer Platform Technologies",           "credits": 3},
+      {"code": "IT202",  "title": "Computer Operating Systems",              "credits": 3},
+      {"code": "IT212",  "title": "Computer Networks",                        "credits": 3},
+      {"code": "IT226",  "title": "Communication in STEM",                    "credits": 3},
+      {"code": "IT253",  "title": "Computer Systems Security",               "credits": 3},
+      {"code": "IT260",  "title": "Web-Oriented Services",                   "credits": 3},
+      {"code": "IT272",  "title": "Cross-Platform Technologies",              "credits": 3},
+      {"code": "IT304",  "title": "Systems Requirements and Planning",        "credits": 3},
+      {"code": "IT313",  "title": "Risk Management in System Design",         "credits": 3},
+      {"code": "IT337",  "title": "User-Centered Systems Design",             "credits": 3},
+      {"code": "IT409",  "title": "Impact of Systems on Organizations",       "credits": 3},
+      {"code": "IT423",  "title": "Computing as a Service",                   "credits": 3},
+      {"code": "IT482",  "title": "IT Operations and Systems Planning",        "credits": 3},
+      {"code": "MGT200", "title": "Leadership and Team Building",             "credits": 3},
+      {"code": "QSO340", "title": "Project Management",                       "credits": 3}
+    ],
+    "cybersecurity_concentration": [
+      {"code": "IT360",  "title": "Network Architecture",                    "credits": 3},
+      {"code": "IT370",  "title": "Cybersecurity in IT Infrastructure",      "credits": 3},
+      {"code": "IT380",  "title": "Intrusion Detection and Prevention",       "credits": 3},
+      {"code": "IT390",  "title": "Vulnerability Assessment",                 "credits": 3},
+      {"code": "IT495",  "title": "Advanced Cybersecurity Practicum",         "credits": 3}
+    ],
+    "paulo_fit_score": 7,
+    "paulo_fit_notes": "Core courses overlap heavily with BA in IT. Cybersecurity concentration directly prepares for MS Cybersecurity admission. However, BS has fewer free elective slots making WES transfer less advantageous than BA. BA in IT remains slightly better for Paulo's transfer situation."
+  },
+  "wes_vs_gened_analysis": {
+    "question": "Vale a pena tentar a validação pelo WES ou só realizar os cursos GenEd mesmo?",
+    "verdict": "WES VALE A PENA — faça os dois, mas priorize o WES",
+    "paulo_credit_snapshot": {
+      "cpl_certifications": 48,
+      "sophia_learning": 30,
+      "subtotal": 78,
+      "snhu_transfer_cap": 90,
+      "gap_to_cap": 12,
+      "wes_can_cover_gap": true
+    },
+    "wes_advantages": [
+      "Cobre os 12 créditos restantes para atingir o cap de 90 — sem custo de tempo adicional",
+      "WES pode mapear cursos do Estácio para disciplinas OBRIGATÓRIAS do BA IT (ex: IT260, IT272, IT304) — não apenas eletivas",
+      "Custo único de $185 — similar ou menor que 2 meses extras na Sophia ($198)",
+      "A avaliação WES serve como documento oficial de credencial estrangeira para admissão no SNHU",
+      "O transcript certificado em inglês (SCG Law & Language) já está disponível — processo está pronto para iniciar",
+      "Potencialmente elimina cursos obrigatórios que teriam que ser feitos no SNHU ($330/cr × 3cr = $990 cada)"
+    ],
+    "gened_only_disadvantages": [
+      "Cursos GenEd (Sophia/CLEP) só cobrem eletivas e gen-ed — não substituem disciplinas obrigatórias do major",
+      "Para cobrir os 12 créditos restantes na Sophia: ~2 meses, ~$198 — custo similar ao WES mas sem benefício de equivalência de major",
+      "Deixa o valor do diploma Estácio sem aproveitamento — investimento de 4 anos sem retorno acadêmico",
+      "Mais cursos para completar na Sophia significa mais tempo antes de iniciar o SNHU"
+    ],
+    "recommendation": {
+      "primary": "Submeta o WES Course-by-Course ($185) o quanto antes — o translation já está pronto",
+      "secondary": "Continue a Sophia enquanto aguarda o resultado WES (7-20 dias úteis) para manter momentum",
+      "expected_outcome": "WES cobre os 12 créditos restantes + potencialmente elimina disciplinas obrigatórias do major, reduzindo cursos a fazer no SNHU de ~10 para ~7-8",
+      "bottom_line": "ROI do WES é excelente: $185 por até $3.960 em créditos (12cr × $330) — retorno de 21x"
+    }
+  },
   "wes_evaluation": {
     "service": "World Education Services (wes.org)",
     "cost_usd": 185,
