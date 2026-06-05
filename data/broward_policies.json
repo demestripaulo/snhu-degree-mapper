@@ -1,0 +1,139 @@
+{
+  "institution": "Broward College",
+  "location": "Fort Lauderdale, FL (fully online available)",
+  "website": "broward.edu",
+  "program": {
+    "name": "BAS — Information Technology, Cybersecurity and Ethical Hacking",
+    "code": "T300C AS",
+    "degree_type": "BAS",
+    "total_credits": 120,
+    "entry_credits": 60,
+    "bas_credits": 60,
+    "format": "Fully online available",
+    "entry_requirement": "Minimum AA, AS, or AAS from Regionally Accredited Institution",
+    "residency_requirement": 30,
+    "cost_per_credit_instate": 101.60,
+    "cost_per_credit_bas_estimated": 101.60,
+    "note": "BAS upper-division cost to confirm with advisor — estimate uses same in-state rate"
+  },
+  "cost_per_credit_usd": 101.60,
+  "paulo_fit_score": 9,
+  "paulo_fit_notes": "Strong alignment: Paulo's 20+ years IT/Security experience, active certifications (CCNA, Security+, ISC2), and Boca Raton location make Broward the lowest-cost path. CPL/CTE credits can cover 60–70% of the program.",
+
+  "prerequisites": [
+    {"code": "CTS2120C", "title": "Security+",               "credits": 4, "cpl_path": "CompTIA Security+ cert (in progress Jul/2026)"},
+    {"code": "CTS1661C", "title": "CISCO CCNA1",             "credits": 4, "cpl_path": "CCNA certification (renew if expired)"},
+    {"code": "CIS1513C", "title": "Project Management",      "credits": 4, "cpl_path": "Google PM + PMI Fast-track certs"}
+  ],
+
+  "core_courses": [
+    {"code": "ISM3013C", "title": "Information Systems Management",        "credits": 3, "cpl_path": null},
+    {"code": "ISM3054C", "title": "Web Systems and Technologies",          "credits": 3, "cpl_path": null},
+    {"code": "CNT2111C", "title": "CISCO CCNA2",                           "credits": 4, "cpl_path": "CCNA CPL"},
+    {"code": "CNT2112C", "title": "CISCO CCNA3",                           "credits": 4, "cpl_path": "CCNA CPL"},
+    {"code": "CET2688C", "title": "System Security Practitioner (SSCP)",   "credits": 4, "cpl_path": "ISC2 SSCP cert (future)"},
+    {"code": "CIS3361C", "title": "CySA+",                                 "credits": 3, "cpl_path": "CompTIA CySA+ cert (future)"},
+    {"code": "ISM3212C", "title": "DataSys+",                              "credits": 3, "cpl_path": "CompTIA DataSys+ cert (future)"},
+    {"code": "CTS3128C", "title": "CISSP",                                 "credits": 4, "cpl_path": "ISC2 CISSP (Paulo qualifies: 20+ yrs exp)"},
+    {"code": "CIS3204C", "title": "Ethical Hacking I",                     "credits": 4, "cpl_path": null},
+    {"code": "CIS4935C", "title": "Ethical Hacking II: Capstone",          "credits": 4, "cpl_path": null},
+    {"code": "ISM3314C", "title": "Applied Project Management",            "credits": 3, "cpl_path": "Google PM / PMI Fast-track"},
+    {"code": "AMH2020",  "title": "History/Government (GE requirement)",   "credits": 3, "cpl_path": "CLEP American Government ($93)"}
+  ],
+
+  "electives": [
+    {"code": "CGS1510C", "title": "Excel Data Analysis",      "credits": 3},
+    {"code": "CNT4422C", "title": "Cloud Security (CCSP)",    "credits": 3, "recommended": true},
+    {"code": "CTS1111C", "title": "Linux+",                   "credits": 4},
+    {"code": "CTS2375C", "title": "Cloud+",                   "credits": 3},
+    {"code": "ISM3545C", "title": "Data Analytics",           "credits": 3},
+    {"code": "ISM4318C", "title": "Agile Practitioner",       "credits": 4}
+  ],
+
+  "general_education": {
+    "total_credits": 36,
+    "note": "GE credits vary based on student transcript — WES-evaluated Estácio degree may satisfy several areas",
+    "areas": [
+      {
+        "area": "1 — Communication",
+        "credits": 9,
+        "courses": [
+          {"code": "ENC1101", "title": "Composition I",      "sophia": true, "clep": "College Composition"},
+          {"code": "ENC1102", "title": "Composition II",     "sophia": true, "clep": "Analyzing & Interpreting Literature"},
+          {"code": "SPC1608", "title": "Public Speaking",    "sophia": true, "clep": null}
+        ]
+      },
+      {
+        "area": "2 — Humanities",
+        "credits": 6,
+        "courses": [
+          {"code": "PHI2010", "title": "Introduction to Philosophy", "sophia": true,  "clep": "Humanities"},
+          {"code": "HUM1020", "title": "Foundations of Humanities",  "sophia": true,  "clep": "Humanities"}
+        ]
+      },
+      {
+        "area": "3 — Social Sciences",
+        "credits": 6,
+        "courses": [
+          {"code": "POS2041", "title": "National Government",  "sophia": false, "clep": "American Government", "note": "Also satisfies Civic Literacy req"},
+          {"code": "PSY2012", "title": "General Psychology",   "sophia": true,  "clep": "Introductory Psychology"},
+          {"code": "ECO2013", "title": "Macroeconomics",       "sophia": true,  "clep": "Macroeconomics"}
+        ]
+      },
+      {
+        "area": "4 — Natural Sciences",
+        "credits": 6,
+        "courses": [
+          {"code": "BSC1005", "title": "General Biology",       "sophia": true,  "clep": "Biology", "note": "No lab required"},
+          {"code": "ESC1000", "title": "Earth Science",         "sophia": false, "clep": "Natural Sciences"}
+        ]
+      },
+      {
+        "area": "5 — Mathematics",
+        "credits": 6,
+        "courses": [
+          {"code": "STA2023", "title": "Statistics",       "sophia": true, "clep": "College Mathematics", "note": "Recommended"},
+          {"code": "MAC1105", "title": "College Algebra",  "sophia": true, "clep": "College Algebra"}
+        ]
+      },
+      {
+        "area": "6 — Additional",
+        "credits": 6,
+        "courses": [
+          {"code": "SPN1120", "title": "Spanish I & II",     "sophia": false, "clep": "Spanish Level 2 ($93)", "note": "★★ Paulo is native — zero study needed. Covers 4 cr + Foreign Language req"},
+          {"code": "FIN2100", "title": "Personal Finance",   "sophia": true,  "clep": null}
+        ]
+      }
+    ]
+  },
+
+  "cpl_rules": {
+    "residency_min_credits": 30,
+    "cert_window_years": 3,
+    "pla_cost_per_credit": 30,
+    "pla_transcript_note": "PLA credits appear as 'CR' — may NOT transfer to FAU/FIU. Use AA→2+2 path if planning to transfer.",
+    "clep_retroactive": "CLEP scores valid 10 years; exams taken before enrollment accepted on application"
+  },
+
+  "pathway_2plus2": {
+    "partner": "Florida Atlantic University (FAU)",
+    "program_options": [
+      "BS Interdisciplinary Artificial Intelligence (launching Fall 2026)",
+      "BS Computer Science Professional Program",
+      "Cybersecurity (#1 FL, #4 US)"
+    ],
+    "contact": "admissions@fau.edu | 561-297-3040",
+    "note": "Link2FAU — guaranteed articulation by Florida state law"
+  },
+
+  "open_questions": [
+    "Does WES-evaluated Tecnólogo qualify as AS Graduate entry for BAS T300C?",
+    "Which certs (CCNA, Security+, ISC2 CC) qualify for CTE credits? Are they within the 3-year window?",
+    "For retired MCSA/MCTS: accepted via PLA portfolio? Which courses covered?",
+    "CLEP scores taken BEFORE enrollment accepted?",
+    "What is BAS-level cost per credit (junior/senior courses)?",
+    "Does native Spanish satisfy Foreign Language requirement directly, or is CLEP Spanish Level 2 needed?",
+    "Can Digital Literacy requirement be satisfied via test-out?",
+    "What is the Effective Catalog Year (Civic Literacy requirement applicability)?"
+  ]
+}

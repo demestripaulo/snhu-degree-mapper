@@ -57,6 +57,57 @@ def wes_analysis() -> dict:
     return policies()["wes_vs_gened_analysis"]
 
 
+def broward_policies() -> dict:
+    return load_json(DATA / "broward_policies.json")
+
+
+def broward_estacio_mapping() -> dict:
+    return load_json(DATA / "broward_estacio_mapping.json")
+
+
+def institution_cost_comparison() -> dict:
+    """Side-by-side cost comparison: SNHU vs Broward for Paulo's profile."""
+    cs = credit_summary()
+    broward = broward_policies()
+
+    snhu_remaining = cs["remaining_at_snhu"]
+    snhu_cost_per_cr = cs["snhu_cost_per_credit"]
+
+    # Broward scenario
+    # Entry: WES Tecnólogo = AS entry (60 cr) → BAS needs 60 more
+    # CPL/CTE from certs covers ~30 cr of the 60 BAS credits
+    # Residency minimum: 30 cr at Broward
+    broward_cr_per = broward["cost_per_credit_usd"]
+
+    snhu_total_remaining = snhu_remaining * snhu_cost_per_cr
+
+    return {
+        "snhu": {
+            "institution": "SNHU (online)",
+            "program": "BA in Information Technologies",
+            "credits_remaining": snhu_remaining,
+            "cost_per_credit": snhu_cost_per_cr,
+            "pre_enrollment": 185 + 297,    # WES + Sophia (3 mo)
+            "clep_total": 186,              # 2 CLEP exams
+            "tuition_at_school": snhu_total_remaining,
+            "total_estimate": snhu_total_remaining + 185 + 297 + 186,
+        },
+        "broward": {
+            "institution": "Broward College (in-state)",
+            "program": "BAS — IT Cybersecurity and Ethical Hacking",
+            "credits_at_broward": 30,       # residency minimum
+            "cost_per_credit": broward_cr_per,
+            "pre_enrollment": 185 + 297,    # WES + Sophia (3 mo)
+            "clep_total": 186,              # CLEP Gov + CLEP Spanish
+            "pla_fees": 900,                # ~30 cr PLA @ $30/cr
+            "ccna_renewal": 330,            # if expired
+            "tuition_at_school": 30 * broward_cr_per,
+            "total_estimate": (30 * broward_cr_per) + 185 + 297 + 186 + 900 + 330,
+        },
+        "savings_broward_vs_snhu": snhu_total_remaining - (30 * broward_cr_per + 900 + 330),
+    }
+
+
 def sophia_mapping() -> dict:
     return load_json(DATA / "sophia_ba_it_mapping.json")
 

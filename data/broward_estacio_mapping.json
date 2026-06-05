@@ -1,0 +1,207 @@
+{
+  "summary": {
+    "total_estacio_courses_usable": 28,
+    "broward_courses_potentially_eliminated": 12,
+    "broward_credits_potentially_eliminated": 36,
+    "ge_areas_covered": ["Social Sciences (PSY)", "Humanities", "Natural Sciences (via content)"],
+    "key_finding": "Estácio degree strongly covers BAS core IT/management requirements. Computer Networks, Security Management, Project Management, Database, and IT Governance courses map directly to Broward BAS technical courses.",
+    "caveat": "Final determination requires Broward advisor review and WES Course-by-Course evaluation. Mapping is estimated based on course content alignment."
+  },
+  "mappings": [
+    {
+      "estacio_code": "CCT0754",
+      "estacio_name": "COMPUTER NETWORKS",
+      "estacio_hours": 80,
+      "estacio_grade": "Approved",
+      "broward_code": "CNT2111C",
+      "broward_title": "CISCO CCNA2",
+      "broward_credits": 4,
+      "match_type": "Strong",
+      "confidence": "High",
+      "match_rationale": "TCP/IP, routing protocols, network topologies — core CCNA2 content. Combined with CCNA cert this strongly supports the mapping.",
+      "elimination_path": "WES transfer + CCNA CPL together"
+    },
+    {
+      "estacio_code": "CCT0761",
+      "estacio_name": "INFORMATION SECURITY MANAGEMENT",
+      "estacio_grade": "Approved",
+      "estacio_hours": 80,
+      "broward_code": "CTS2120C",
+      "broward_title": "Security+ (Prerequisite)",
+      "broward_credits": 4,
+      "match_type": "Strong",
+      "confidence": "High",
+      "match_rationale": "Security management, risk, compliance — overlaps directly with Security+ domains. Combined with Security+ cert CPL.",
+      "elimination_path": "Security+ CPL (primary) + WES reinforcement"
+    },
+    {
+      "estacio_code": "CCT0762",
+      "estacio_name": "PROJECT MANAGEMENT FOR IT",
+      "estacio_grade": "Exempt",
+      "estacio_hours": 80,
+      "broward_code": "CIS1513C",
+      "broward_title": "Project Management (Prerequisite)",
+      "broward_credits": 4,
+      "match_type": "Strong",
+      "confidence": "High",
+      "match_rationale": "IT project management methodologies, PMBoK framework — direct match. Google PM cert + this WES course = strong CPL case.",
+      "elimination_path": "Google PM CPL (primary) + WES transfer"
+    },
+    {
+      "estacio_code": "CCT0762",
+      "estacio_name": "PROJECT MANAGEMENT FOR IT",
+      "estacio_grade": "Exempt",
+      "estacio_hours": 80,
+      "broward_code": "ISM3314C",
+      "broward_title": "Applied Project Management",
+      "broward_credits": 3,
+      "match_type": "Strong",
+      "confidence": "High",
+      "match_rationale": "Advanced PM application — Estácio PM course + Google PM + PMI certs build a compelling PLA portfolio.",
+      "elimination_path": "PLA portfolio (Google PM + PMI + Estácio course + 20 yrs experience)"
+    },
+    {
+      "estacio_code": "CCT0782",
+      "estacio_name": "DATABASE",
+      "estacio_grade": "Exempt",
+      "estacio_hours": 80,
+      "broward_code": "ISM3212C",
+      "broward_title": "DataSys+",
+      "broward_credits": 3,
+      "match_type": "Moderate",
+      "confidence": "Medium",
+      "match_rationale": "Database design, SQL, data management — partial overlap with DataSys+ domains. CompTIA DataSys+ cert would fully cover this.",
+      "elimination_path": "CompTIA DataSys+ CPL (future) + WES database course as supporting evidence"
+    },
+    {
+      "estacio_code": "CCT0775",
+      "estacio_name": "BUSINESS INTELLIGENCE",
+      "estacio_grade": "Approved",
+      "estacio_hours": 80,
+      "broward_code": "ISM3545C",
+      "broward_title": "Data Analytics (Elective)",
+      "broward_credits": 3,
+      "match_type": "Strong",
+      "confidence": "High",
+      "match_rationale": "BI, dashboards, data visualization — maps well to Data Analytics elective content.",
+      "elimination_path": "WES transfer credit"
+    },
+    {
+      "estacio_code": "CCT0772",
+      "estacio_name": "GOVERNANCE IN INFORMATION TECHNOLOGY",
+      "estacio_grade": "Exempt",
+      "estacio_hours": 80,
+      "broward_code": "ISM3013C",
+      "broward_title": "Information Systems Management",
+      "broward_credits": 3,
+      "match_type": "Strong",
+      "confidence": "High",
+      "match_rationale": "IT governance frameworks (COBIT, ISO 27001), policy management — strong match to ISM course content.",
+      "elimination_path": "WES transfer credit"
+    },
+    {
+      "estacio_code": "CCT0776",
+      "estacio_name": "SYSTEMS AUDIT",
+      "estacio_grade": "Approved",
+      "estacio_hours": 80,
+      "broward_code": "CIS3204C",
+      "broward_title": "Ethical Hacking I (partial support)",
+      "broward_credits": 4,
+      "match_type": "Partial",
+      "confidence": "Low-Medium",
+      "match_rationale": "Systems audit includes vulnerability assessment and compliance — supporting context for ethical hacking but not a direct replacement. Use as PLA supporting evidence.",
+      "elimination_path": "PLA portfolio (audit + security certs)"
+    },
+    {
+      "estacio_code": "CCT0781",
+      "estacio_name": "INFORMATION TECHNOLOGY SERVICE MANAGEMENT",
+      "estacio_grade": "Approved",
+      "estacio_hours": 80,
+      "broward_code": "ISM3013C",
+      "broward_title": "Information Systems Management (reinforcement)",
+      "broward_credits": 3,
+      "match_type": "Strong",
+      "confidence": "High",
+      "match_rationale": "ITIL service management — directly aligns with IT systems management course.",
+      "elimination_path": "WES transfer credit (combined with CCT0772)"
+    },
+    {
+      "estacio_code": "CCT0783",
+      "estacio_name": "DELIVERY AND SUPPORT IN INFORMATION TECHNOLOGY",
+      "estacio_grade": "Approved",
+      "estacio_hours": 80,
+      "broward_code": "ISM3054C",
+      "broward_title": "Web Systems and Technologies",
+      "broward_credits": 3,
+      "match_type": "Partial",
+      "confidence": "Low-Medium",
+      "match_rationale": "IT delivery/support overlaps with web systems topics but is not a direct match. Useful as supplementary transfer evidence.",
+      "elimination_path": "WES transfer (partial credit likely)"
+    },
+    {
+      "estacio_code": "CCT0748",
+      "estacio_name": "ORGANIZATION OF COMPUTERS",
+      "estacio_grade": "Exempt",
+      "estacio_hours": 80,
+      "broward_code": "GE_NATURAL_SCI",
+      "broward_title": "GE Area 4 — Natural Sciences (computing foundations)",
+      "broward_credits": 3,
+      "match_type": "Partial",
+      "confidence": "Low",
+      "match_rationale": "Computer organization/architecture is foundational science. May partially satisfy a GE natural science slot.",
+      "elimination_path": "Advisor review — may transfer as technical elective"
+    },
+    {
+      "estacio_code": "GST1732",
+      "estacio_name": "PSYCHOLOGY IN ORGANIZATIONS",
+      "estacio_grade": "Approved",
+      "estacio_hours": 40,
+      "broward_code": "PSY2012",
+      "broward_title": "General Psychology (GE Area 3)",
+      "broward_credits": 3,
+      "match_type": "Moderate",
+      "confidence": "Medium",
+      "match_rationale": "Organizational psychology shares core foundations with general psychology GE requirement.",
+      "elimination_path": "WES transfer — advisor may accept for GE Social Sciences"
+    },
+    {
+      "estacio_code": "CCT0752",
+      "estacio_name": "INTELLECTUAL PROPERTY, LAW AND ETHICS",
+      "estacio_grade": "Approved",
+      "estacio_hours": 40,
+      "broward_code": "GE_HUMANITIES",
+      "broward_title": "GE Area 2 — Humanities (ethics content)",
+      "broward_credits": 3,
+      "match_type": "Moderate",
+      "confidence": "Medium",
+      "match_rationale": "IP law and ethics has humanities/philosophy crossover. May satisfy one humanities GE slot.",
+      "elimination_path": "Advisor review for GE Humanities credit"
+    }
+  ],
+  "ge_coverage_by_area": {
+    "area1_communication": {
+      "covered_by_estacio": false,
+      "recommended_path": "Sophia Learning (English Comp I & II, Public Speaking) — ~$99-198"
+    },
+    "area2_humanities": {
+      "covered_by_estacio": "Partial — CCT0752 (Law & Ethics) may cover 1 slot",
+      "recommended_path": "Sophia Philosophy + WES for 1 slot"
+    },
+    "area3_social_sciences": {
+      "covered_by_estacio": "Partial — GST1732 (Psychology) may cover 1 slot",
+      "recommended_path": "CLEP American Government ($93) + WES for 1 slot"
+    },
+    "area4_natural_sciences": {
+      "covered_by_estacio": "Partial — CCT0748 (Computer Organization) possible 1 slot",
+      "recommended_path": "Sophia Biology + Sophia/CLEP for 2nd slot"
+    },
+    "area5_mathematics": {
+      "covered_by_estacio": "Partial — CCT0750 (Computational Mathematics) possible",
+      "recommended_path": "CLEP College Algebra + Sophia Statistics"
+    },
+    "area6_additional": {
+      "covered_by_estacio": false,
+      "recommended_path": "CLEP Spanish Level 2 ($93) — Paulo native speaker, zero study"
+    }
+  }
+}
